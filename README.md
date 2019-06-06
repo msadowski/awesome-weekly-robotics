@@ -1,4 +1,4 @@
-# awesome-weekly-robotics
+# Awesome Weekly Robotics
 
 A collection of useful links discovered through the work on [Weekly Robotics](https://weeklyrobotics.com/). If you would like to feature a project in this list feel free to [contact authors](mailto:contact@weeklyrobotics.com) or create a pull request on [GitHub](https://github.com/msadowski/awesome-weekly-robotics/pulls).
 
