@@ -36,10 +36,11 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Paparazzi](http://wiki.paparazziuav.org/wiki/Main_Page)
 
 
-## Libraries
+## Libraries and Frameworks
  * [Visual Servoing Platform](http://visp.inria.fr/#)
  * [Point Cloud Library](http://pointclouds.org/)
  * [OpenCV](https://opencv.org/)
+ * [videoflow](https://github.com/videoflow/videoflow)
 
 ## Simulators
  * [v-rep](http://www.coppeliarobotics.com/)
