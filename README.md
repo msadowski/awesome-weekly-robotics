@@ -44,7 +44,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [OpenCV](https://opencv.org/)
  * [videoflow](https://github.com/videoflow/videoflow)
 
- ### SLAM
+### SLAM
  * [Cartographer](https://github.com/googlecartographer/cartographer) - 2D and 3D SLAM library, supports multiple platforms and sensor configurations. Licence: Apache 2.0.
  * [GMapping](https://openslam-org.github.io/gmapping.html) - GMapping is a highly efficient Rao-Blackwellized particle filer to learn grid maps from laser range data. Licence: BSD-3-Clause.
  * [hector_slam](https://github.com/tu-darmstadt-ros-pkg/hector_slam) - hector_slam contains ROS packages related to performing SLAM in unstructured environments like those encountered in the Urban Search and Rescue (USAR) scenarios of the RoboCup Rescue competition. Licence: BSD.
