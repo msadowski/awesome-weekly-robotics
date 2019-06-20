@@ -37,6 +37,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [nuScenes dataset](https://www.nuscenes.org/overview) - Autonomous vehicle dataset that includes approximately 1.4M camera images, 390k LIDAR sweeps, 1.4M RADAR sweeps and 1.4M object bounding boxes in 40k keyframes.
  * [UZH-FPV Drone Racing Dataset](http://rpg.ifi.uzh.ch/uzh-fpv.html) - Quadrotor racing dataset that contains information from even camera, RGB camera and groundtruth from Leica Nova MS60 laser tracker. Licence: CC BY-NC-SA 3.0.
  * [PCL data repositories](http://pointclouds.org/media/) - This website contains various datasets related to Point Cloud Library.
+ * [PartNet](https://cs.stanford.edu/~kaichun/partnet/) - A consistent, large-scale dataset of 3D objects annotated with fine-grained, instance-level, and hierarchical 3D part information. The dataset consists of 573,585 part instances over 26,671 3D models covering 24 object categories. Licence: MIT.
 
 ## Drones
 
