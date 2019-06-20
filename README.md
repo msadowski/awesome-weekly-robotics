@@ -4,10 +4,11 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Open Source Robots
 ### Rovers and Cars
- * [NASA Open Source Rover](https://github.com/nasa-jpl/open-source-rover)
- * [Sawppy Rover](https://github.com/Roger-random/Sawppy_Rover)
- * [DonkeyCar](https://www.donkeycar.com/)
- * [MORPH: Modular Open Robotics Platform for Hackers](https://github.com/roaldlemmens/morph)
+ * [NASA Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars. Licence: Apache 2.0.
+ * [Sawppy Rover](https://github.com/Roger-random/Sawppy_Rover) - A 3D printed motorized model of Mars rovers Curiosity and Mars 2020 that can be build on $500 budget. Licence: MIT.
+ * [DonkeyCar](https://github.com/autorope/donkeycar) - DIY self driving platform for small scale cars. Requires an R/C car, Raspberry Pi and is programmed in Python. Licence: MIT.
+ * [MORPH: Modular Open Robotics Platform for Hackers](https://github.com/roaldlemmens/morph) - An affordable modular differential drive platform for open robotics development for hackers. Licence: GPLv3.
+ * [Linorobot](https://github.com/linorobot/linorobot) - ROS Compatible ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive). Licence: BSD-2 Clause.
 
 ### Robot Arms
  * [Dexter](http://hdrobotic.com/)
@@ -29,6 +30,13 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 ## Machining and 3D Printing
  * [Cycloidal Reduction Drive Generator](https://github.com/mawildoer/cycloidal_generator)
  * [Pointcloudprinter](https://github.com/marian42/pointcloudprinter)
+
+## Datasets
+ * [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/) - Vision benchmark captured in Karlsruhe, contains data fro LiDAR, GPS and stereo cameras. Licence: CC BY-NC-SA 3.0.
+ * [FLIR Thermal Dataset](https://www.flir.com/oem/adas/adas-dataset-form/) - Synced annotated thermal imagery and non-annotated RGB imagery for reference for ADAS research. Contains over 14k images.
+ * [nuScenes dataset](https://www.nuscenes.org/overview) - Autonomous vehicle dataset that includes approximately 1.4M camera images, 390k LIDAR sweeps, 1.4M RADAR sweeps and 1.4M object bounding boxes in 40k keyframes.
+ * [UZH-FPV Drone Racing Dataset](http://rpg.ifi.uzh.ch/uzh-fpv.html) - Quadrotor racing dataset that contains information from even camera, RGB camera and groundtruth from Leica Nova MS60 laser tracker. Licence: CC BY-NC-SA 3.0.
+ * [PCL data repositories](http://pointclouds.org/media/) - This website contains various datasets related to Point Cloud Library.
 
 ## Drones
 
