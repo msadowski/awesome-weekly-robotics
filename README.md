@@ -111,3 +111,4 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [kiloreux](https://github.com/kiloreux/awesome-robotics)
  * [ahundt](https://github.com/ahundt/awesome-robotics)
  * [jslee02](https://github.com/jslee02/awesome-robotics-libraries/blob/master/README.md)
+ * [Awesome ROS 2](https://github.com/fkromer/awesome-ros2#readme)
