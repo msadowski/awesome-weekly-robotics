@@ -89,6 +89,11 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [ROS Navigation Tuning Guide](http://kaiyuzheng.me/documents/navguide.pdf)
  * [ROS Cheat Sheet](https://www.clearpathrobotics.com/ros-robot-operating-system-cheat-sheet/)
 
+### ROS web tools/frameworks
+ * [roslibjs](https://github.com/RobotWebTools/roslibjs) - A standard ROS JavaScript library. Licence: BSD.
+ * [web_video_server](https://github.com/RobotWebTools/web_video_server) - HTTP Streaming of ROS Image Topics in Multiple Formats. Licence: BSD.
+ * [Webviz](https://github.com/cruise-automation/webviz) - A web based application for playback and visualization of ROS bag files made by Cruise Automation. Licence: Apache 2.0. 
+
 ## Motor Controllers
  * [VESC](https://vesc-project.com/)
  * [ODrive](https://odriverobotics.com/)
