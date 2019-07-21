@@ -14,7 +14,6 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Dexter](http://hdrobotic.com/)
 
 ### Quadrupeds
- * [OpenCat](https://github.com/PetoiCamp/OpenCat) - Quadruped cat project with Open Source code (MIT Licence). The hardware designs seem to be proprietary at the moment.
  * [OpenDog](http://www.xrobots.co.uk/open-dog-the-open-source-robot/) - Open Source quadruped robot designed by [James Bruton](https://www.youtube.com/playlist?list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf). Licence: GPLv3.
  * [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is a highly agile robot designed to provide an accessible platform for legged robot research. Licence: MIT.
 
@@ -48,10 +47,13 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 
 ## Libraries and Frameworks
- * [Visual Servoing Platform](http://visp.inria.fr/#)
- * [Point Cloud Library](http://pointclouds.org/)
- * [OpenCV](https://opencv.org/)
- * [videoflow](https://github.com/videoflow/videoflow)
+ * [Visual Servoing Platform](http://visp.inria.fr/#) - This project is a cross-platform library (Linux, Windows, Mac) that allows prototyping and developing applications using visual tracking and visual servoing technics. Licence: GPLv2.
+ * [Point Cloud Library](http://pointclouds.org/) - Standalone, large scale, open project for 2D/3D image and point cloud processing. Licence: BSD
+ * [OpenCV](https://opencv.org/) - Open Source computer vision library. Licence: BSD-3 Clause.
+ * [videoflow](https://github.com/videoflow/videoflow) - Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment. Licence: MIT.
+ * [Robotics Library](https://github.com/roboticslibrary/rl) - Self-contained C++ library for rigid body kinematics and dynamics, motion planning, and control. Licence: BSD-2 Clause.
+ * [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Real-time multi-person keypoint detection library for body, face, hands, and foot estimation. Licence: permissible for non-profits and research organizations, commercial for for profit companies.
+
 
 ### SLAM
  * [Cartographer](https://github.com/googlecartographer/cartographer) - 2D and 3D SLAM library, supports multiple platforms and sensor configurations. Licence: Apache 2.0.
@@ -92,7 +94,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 ### ROS web tools/frameworks
  * [roslibjs](https://github.com/RobotWebTools/roslibjs) - A standard ROS JavaScript library. Licence: BSD.
  * [web_video_server](https://github.com/RobotWebTools/web_video_server) - HTTP Streaming of ROS Image Topics in Multiple Formats. Licence: BSD.
- * [Webviz](https://github.com/cruise-automation/webviz) - A web based application for playback and visualization of ROS bag files made by Cruise Automation. Licence: Apache 2.0. 
+ * [Webviz](https://github.com/cruise-automation/webviz) - A web based application for playback and visualization of ROS bag files made by Cruise Automation. Licence: Apache 2.0.
 
 ## Motor Controllers
  * [VESC](https://vesc-project.com/)
