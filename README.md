@@ -27,13 +27,15 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [soft robotics toolkit](https://softroboticstoolkit.com/components)
 
 ## Machining and 3D Printing
- * [Cycloidal Reduction Drive Generator](https://github.com/mawildoer/cycloidal_generator)
- * [Pointcloudprinter](https://github.com/marian42/pointcloudprinter)
+ * [Cycloidal Reduction Drive Generator](https://github.com/mawildoer/cycloidal_generator) - A cycloidal reduction drive generator script for Autodesk Fusion360. Licence: Public Domain.
+ * [Pointcloudprinter](https://github.com/marian42/pointcloudprinter) - Prepare pointclouds from aerial LIDAR scans for 3D printing. Licence: MIT.
+ * [LinuxCNC](http://linuxcnc.org/) - Open Source software that can drive milling machines, lathes, 3d printers, laser cutters, plasma cutters, robot arms, hexapods, and more. Licence: GPLv2.
 
 ## Datasets
  * [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/) - Vision benchmark captured in Karlsruhe, contains data fro LiDAR, GPS and stereo cameras. Licence: CC BY-NC-SA 3.0.
  * [FLIR Thermal Dataset](https://www.flir.com/oem/adas/adas-dataset-form/) - Synced annotated thermal imagery and non-annotated RGB imagery for reference for ADAS research. Contains over 14k images.
  * [nuScenes dataset](https://www.nuscenes.org/overview) - Autonomous vehicle dataset that includes approximately 1.4M camera images, 390k LIDAR sweeps, 1.4M RADAR sweeps and 1.4M object bounding boxes in 40k keyframes.
+ * [Lyft Level 5 dataset](https://level5.lyft.com/dataset/) - Autonomous car dataset from Lyft where each car is equipped with 3 LiDARs and 7 cameras. The dataset comes with bounding boxes of traffic agens and underlying HD spatial semantic map.
  * [UZH-FPV Drone Racing Dataset](http://rpg.ifi.uzh.ch/uzh-fpv.html) - Quadrotor racing dataset that contains information from even camera, RGB camera and groundtruth from Leica Nova MS60 laser tracker. Licence: CC BY-NC-SA 3.0.
  * [PCL data repositories](http://pointclouds.org/media/) - This website contains various datasets related to Point Cloud Library.
  * [PartNet](https://cs.stanford.edu/~kaichun/partnet/) - A consistent, large-scale dataset of 3D objects annotated with fine-grained, instance-level, and hierarchical 3D part information. The dataset consists of 573,585 part instances over 26,671 3D models covering 24 object categories. Licence: MIT.
