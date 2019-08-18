@@ -55,6 +55,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [videoflow](https://github.com/videoflow/videoflow) - Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment. Licence: MIT.
  * [Robotics Library](https://github.com/roboticslibrary/rl) - Self-contained C++ library for rigid body kinematics and dynamics, motion planning, and control. Licence: BSD-2 Clause.
  * [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Real-time multi-person keypoint detection library for body, face, hands, and foot estimation. Licence: permissible for non-profits and research organizations, commercial for for profit companies.
+ * [Raisim](https://github.com/leggedrobotics/raisimLib) - A physics for rigid-body dynamics simulation. Licence: Free for non-commercial use.
 
 
 ### SLAM
