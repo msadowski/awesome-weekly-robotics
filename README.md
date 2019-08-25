@@ -9,6 +9,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [DonkeyCar](https://github.com/autorope/donkeycar) - DIY self driving platform for small scale cars. Requires an R/C car, Raspberry Pi and is programmed in Python. Licence: MIT.
  * [MORPH: Modular Open Robotics Platform for Hackers](https://github.com/roaldlemmens/morph) - An affordable modular differential drive platform for open robotics development for hackers. Licence: GPLv3.
  * [Linorobot](https://github.com/linorobot/linorobot) - ROS Compatible ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive). Licence: BSD-2 Clause.
+ * [MuSHR](https://github.com/prl-mushr/mushr) - An  open-source robotic hardware and software platform for learning and researching AI in a the setting of autonomous vehicles and mobile robotics. Licence: BSD 3-Clause.
 
 ### Robot Arms
  * [Dexter](http://hdrobotic.com/)
