@@ -9,23 +9,23 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [DonkeyCar](https://github.com/autorope/donkeycar) - DIY self driving platform for small scale cars. Requires an R/C car, Raspberry Pi and is programmed in Python. Licence: MIT.
  * [MORPH: Modular Open Robotics Platform for Hackers](https://github.com/roaldlemmens/morph) - An affordable modular differential drive platform for open robotics development for hackers. Licence: GPLv3.
  * [Linorobot](https://github.com/linorobot/linorobot) - ROS Compatible ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive). Licence: BSD-2 Clause.
- * [MuSHR](https://github.com/prl-mushr/mushr) - An  open-source robotic hardware and software platform for learning and researching AI in a the setting of autonomous vehicles and mobile robotics. Licence: BSD 3-Clause.
+ * [MuSHR](https://github.com/prl-mushr/mushr) - An open-source robotic hardware and software platform for learning and researching AI in a the setting of autonomous vehicles and mobile robotics. Licence: BSD 3-Clause.
 
 ### Robot Arms
- * [Dexter](http://hdrobotic.com/)
+ * [Dexter](https://github.com/HaddingtonDynamics/Dexter/wiki) - Open Source  industrial robotics arm project. For more information please see [Haddington Dynamics webpage](http://hdrobotic.com/open-source). Licence: GPLv3.
 
 ### Quadrupeds
  * [OpenDog](http://www.xrobots.co.uk/open-dog-the-open-source-robot/) - Open Source quadruped robot designed by [James Bruton](https://www.youtube.com/playlist?list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf). Licence: GPLv3.
  * [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is a highly agile robot designed to provide an accessible platform for legged robot research. Licence: MIT.
 
 ## Open Source Sensors
- * [OpenMV](https://openmv.io/)
+ * [OpenMV](https://openmv.io/) - The OpenMV project is about creating low-cost, extensible, Python powered, machine vision modules and aims at becoming the “Arduino of Machine Vision“. Hardware Licence: CC BY-SA 3.0, Software Licence: MIT.
 
 ## Graphical User Interfaces
- * [Open MCT](https://github.com/nasa/openmct)
+ * [Open MCT](https://github.com/nasa/openmct) - Open MCT (Open Mission Control Technologies) is a next-generation mission control framework for visualization of data on desktop and mobile devices. It is developed at NASA's Ames Research Center, and is being used by NASA for data analysis of spacecraft missions, as well as planning and operation of experimental rover systems. Licence: Apache 2.0.
 
 ## Soft Robotics
- * [soft robotics toolkit](https://softroboticstoolkit.com/components)
+ * [soft robotics toolkit](https://softroboticstoolkit.com/) - The Soft Robotics Toolkit is a collection of shared resources to support the design, fabrication, modeling, characterization, and control of soft robotic devices. The Toolkit was developed as part of educational research being undertaken in the [Harvard Biodesign Lab](http://biodesign.seas.harvard.edu/). Licence: Open for research purposes, need to contact the organization for commercial usages.
 
 ## Machining and 3D Printing
  * [Cycloidal Reduction Drive Generator](https://github.com/mawildoer/cycloidal_generator) - A cycloidal reduction drive generator script for Autodesk Fusion360. Licence: Public Domain.
@@ -44,9 +44,9 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 ## Drones
 
 ### Autopilots
- * [ArduPilot](http://ardupilot.org/)
- * [PX4](https://px4.io/)
- * [Paparazzi](http://wiki.paparazziuav.org/wiki/Main_Page)
+ * [ArduPilot](http://ardupilot.org/) - Open Source autopilot for multirotors, fixed wings, rovers, boats and submarines. Runs on [following autopilot hardware](http://ardupilot.org/copter/docs/common-autopilots.html). Licence: GPLv3.
+ * [PX4](https://px4.io/) - PX4 is an open source flight control software for drones and other unmanned vehicles. The project provides a flexible set of tools for drone developers to share technologies to create tailored solutions for drone applications. Licence: BSD.
+ * [Paparazzi](http://wiki.paparazziuav.org/wiki/Main_Page) - Open-source drone hardware and software project encompassing autopilot systems and ground station software for multicopters/multirotors, fixed-wing, helicopters and hybrid aircraft that was founded in 2003. Licence: GPLv2.
 
 
 ## Libraries and Frameworks
@@ -101,9 +101,10 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Webviz](https://github.com/cruise-automation/webviz) - A web based application for playback and visualization of ROS bag files made by Cruise Automation. Licence: Apache 2.0.
 
 ## Motor Controllers
- * [VESC](https://vesc-project.com/)
- * [ODrive](https://odriverobotics.com/)
- * [STMBL](https://github.com/rene-dev/stmbl)
+ * [VESC](https://vesc-project.com/) - An open source ESC project. Quite commonly used in electronics skateboard community but also used in projects such as [MIT RACECAR](https://mit-racecar.github.io/) and [MuSHR](https://mushr.io/).
+ * [ODrive](https://odriverobotics.com/) - "A hobby motor for robotics". Can control two motors at the same time. Licence: MIT ([Hardware](https://github.com/madcowswe/ODriveHardware), [Software](https://github.com/madcowswe/ODrive/blob/master/LICENSE.md)).
+ * [STMBL](https://github.com/rene-dev/stmbl) - AC Servo Driver for STM32F4. Licence: GPLv3.
+
 
 ## Books and Courses
  * [PID Without a PhD](https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf)[PDF]
@@ -115,8 +116,8 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [A Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course/blob/master/README.rst)
 
 ## Other
- * [Examples of AI Gaming the Rules](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml)
- * [List of open source real-time operating systems](https://www.osrtos.com/)
+ * [Examples of AI Gaming the Rules](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml) - Sometimes it's convenient for the algorithm to pause the simulation to get the highest score. This spreadsheet contains lots of information of this kind.
+ * [OSRTOS](https://www.osrtos.com/) - A list of open source Real Time Operating Systems (RTOS). Licence: CC BY-SA 3.0.
 
 ## Awesome Robotics Lists
  * [kiloreux](https://github.com/kiloreux/awesome-robotics)
