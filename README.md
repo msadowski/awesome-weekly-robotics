@@ -66,18 +66,18 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [TinySLAM](http://wiki.ros.org/tiny_slam) - This package provides ROS implentation of the [tinySLAM](https://openslam.org/tinyslam.html) that is one of the most simpliest and lightweight SLAM methods. Licence: MIT.
 
 ## Simulators
- * [v-rep](http://www.coppeliarobotics.com/)
- * [ARGoS](https://www.argos-sim.info/)
- * [Gazebo](http://gazebosim.org/)
- * [Webots](https://cyberbotics.com/)
- * [CARLA](http://carla.org/)
- * [AirSim](https://github.com/microsoft/AirSim)
+ * [v-rep](http://www.coppeliarobotics.com/) - A robot simulator with integrated development environment. Based on a distributed control architecture: each object/model can be individually controlled via an embedded script, a plugin, a ROS or BlueZero node, a remote API client, or a custom solution. It comes in free educational or paid commercial versions.
+ * [ARGoS](https://www.argos-sim.info/) - ARGoS is a multi-physics robot simulator. It can simulate large-scale swarms of robots of any kind efficiently. Licence: MIT.
+ * [Gazebo](http://gazebosim.org/) - Open Source simulator that plays nicely with ROS developed by OSRF. Supports 4 physics engines. Licence: Apache 2.0.
+ * [Webots](https://cyberbotics.com/) - Free and open source simulator that includes a large collection of robots, sensors, actuators and objects model.s Licence: Apache 2.0.
+ * [CARLA](http://carla.org/) - Open-source simulator for autonomous driving research. Licence: MIT.
+ * [AirSim](https://github.com/microsoft/AirSim) -A simulator for drones, cars and more, built on Unreal Engine and made by Microsoft. Licence: MIT.
 
 ## ROS
 
 ### Courses and Tutorials
- * [Hello (Real) World with ROS – Robot Operating System](https://online-learning.tudelft.nl/courses/hello-real-world-with-ros-robot-operating-systems/)
- * [ROS Industrial (Melodic) Training Exercises](https://industrial-training-master.readthedocs.io/en/melodic/)
+ * [Hello (Real) World with ROS – Robot Operating System](https://online-learning.tudelft.nl/courses/hello-real-world-with-ros-robot-operating-systems/) - Free edX MOOC on ROS basics taught by researchers from Delft University of Technology.
+ * [ROS Industrial (Melodic) Training Exercises](https://industrial-training-master.readthedocs.io/en/melodic/) - Training exercises provided by ROS-Industrial.
 
 ### Libraries and Packages
  * [towr](http://wiki.ros.org/towr)
@@ -88,12 +88,12 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [vector_ros](https://github.com/betab0t/vector_ros)
 
 ### Drones
- * [ROSflight](http://docs.rosflight.org/en/latest/)
- * [rpg_quadrotor_control](https://github.com/uzh-rpg/rpg_quadrotor_control)
+ * [ROSflight](http://rosflight.org/) - ROSflight is an autopilot system designed from the ground up with researchers in mind, and for easy integration with ROS. Licence: BSD 3-Clause.
+ * [rpg_quadrotor_control](https://github.com/uzh-rpg/rpg_quadrotor_control) - A complete framework for flying quadrotors based on control algorithms developed by the [Robotics and Perception Group](https://www.ifi.uzh.ch/en/rpg.html) at University of Zurich.
 
 ### Publications
- * [ROS Navigation Tuning Guide](http://kaiyuzheng.me/documents/navguide.pdf)
- * [ROS Cheat Sheet](https://www.clearpathrobotics.com/ros-robot-operating-system-cheat-sheet/)
+ * [ROS Navigation Tuning Guide](http://kaiyuzheng.me/documents/navguide.pdf)[PDF] - A good introduction to tuning navigation in ROS. Covers global and local planners, costmaps, AMCL, recovery behaviours.
+ * [ROS Cheat Sheet](https://www.clearpathrobotics.com/ros-robot-operating-system-cheat-sheet/) - A basic ROS cheatsheet provided by [Clearpath Robotics](https://clearpathrobotics.com/).
 
 ### ROS web tools/frameworks
  * [roslibjs](https://github.com/RobotWebTools/roslibjs) - A standard ROS JavaScript library. Licence: BSD.
@@ -107,13 +107,13 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 
 ## Books and Courses
- * [PID Without a PhD](https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf)[PDF]
- * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
- * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
- * [SLAM for Dummies](https://dspace.mit.edu/bitstream/handle/1721.1/119149/16-412j-spring-2005/contents/projects/1aslam_blas_repo.pdf)[PDF]
- * [The Autonomous Driving Cookbook](https://github.com/Microsoft/AutonomousDrivingCookbook)
- * [Practical Deep Learning for Coders](https://course.fast.ai/index.html)
- * [A Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course/blob/master/README.rst)
+ * [PID Without a PhD](https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf)[PDF] - A guide on implementing a simple controller in software that also covers tunning.
+ * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms. Licence: MIT.
+ * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. Licence: CC.
+ * [SLAM for Dummies](https://dspace.mit.edu/bitstream/handle/1721.1/119149/16-412j-spring-2005/contents/projects/1aslam_blas_repo.pdf)[PDF] - Introductory document to SLAM and Extended Kalman Filter. Comes with example C++ implementation source code.
+ * [The Autonomous Driving Cookbook](https://github.com/Microsoft/AutonomousDrivingCookbook) - A preview of Autonomous Driving tutorials that are being developed by Microsoft.
+ * [Practical Deep Learning for Coders](https://course.fast.ai/index.html) - Free course on neural networks from [fast.ai](https://www.fast.ai/). Currently it contains 14 lessons.
+ * [A Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course/blob/master/README.rst) - Freely available Machine Learning course using Python developed by [Machine Learning Mindset](https://www.machinelearningmindset.com/blog/).
 
 ## Other
  * [Examples of AI Gaming the Rules](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml) - Sometimes it's convenient for the algorithm to pause the simulation to get the highest score. This spreadsheet contains lots of information of this kind.
