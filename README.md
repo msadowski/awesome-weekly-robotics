@@ -64,6 +64,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [GMapping](https://openslam-org.github.io/gmapping.html) - GMapping is a highly efficient Rao-Blackwellized particle filer to learn grid maps from laser range data. Licence: BSD-3-Clause.
  * [hector_slam](https://github.com/tu-darmstadt-ros-pkg/hector_slam) - hector_slam contains ROS packages related to performing SLAM in unstructured environments like those encountered in the Urban Search and Rescue (USAR) scenarios of the RoboCup Rescue competition. Licence: BSD.
  * [TinySLAM](http://wiki.ros.org/tiny_slam) - This package provides ROS implentation of the [tinySLAM](https://openslam.org/tinyslam.html) that is one of the most simpliest and lightweight SLAM methods. Licence: MIT.
+ * [xivo](https://github.com/ucla-vision/xivo) - A library for visual-inertial odometry and mapping. It's free for research and educational applications, a commercial licence is available on request.
 
 ## Simulators
  * [v-rep](http://www.coppeliarobotics.com/) - A robot simulator with integrated development environment. Based on a distributed control architecture: each object/model can be individually controlled via an embedded script, a plugin, a ROS or BlueZero node, a remote API client, or a custom solution. It comes in free educational or paid commercial versions.
