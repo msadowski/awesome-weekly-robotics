@@ -40,6 +40,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [UZH-FPV Drone Racing Dataset](http://rpg.ifi.uzh.ch/uzh-fpv.html) - Quadrotor racing dataset that contains information from even camera, RGB camera and groundtruth from Leica Nova MS60 laser tracker. Licence: CC BY-NC-SA 3.0.
  * [PCL data repositories](http://pointclouds.org/media/) - This website contains various datasets related to Point Cloud Library.
  * [PartNet](https://cs.stanford.edu/~kaichun/partnet/) - A consistent, large-scale dataset of 3D objects annotated with fine-grained, instance-level, and hierarchical 3D part information. The dataset consists of 573,585 part instances over 26,671 3D models covering 24 object categories. Licence: MIT.
+ * [UTBM Robocar dataset](https://epan-utbm.github.io/utbm_robocar_dataset/) - A dataset containing a robotic car sensor data. In the provided ROS bag files we can find information from 2 stereo cameras, 3 lidars, radar, GNSS receiver with RTK base station, IMU and 2 RGB cameras. Licence: CC BY-NC-SA 4.0.
 
 ## Drones
 
@@ -57,6 +58,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Robotics Library](https://github.com/roboticslibrary/rl) - Self-contained C++ library for rigid body kinematics and dynamics, motion planning, and control. Licence: BSD-2 Clause.
  * [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Real-time multi-person keypoint detection library for body, face, hands, and foot estimation. Licence: permissible for non-profits and research organizations, commercial for for profit companies.
  * [Raisim](https://github.com/leggedrobotics/raisimLib) - A physics for rigid-body dynamics simulation. Licence: Free for non-commercial use.
+ * [Open Motion Planning Library](https://github.com/ompl/ompl) - OMPL consists of many state-of-the-art sampling-based motion planning algorithms. Licence: BSD-3 Clause.
 
 
 ### SLAM
@@ -65,6 +67,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [hector_slam](https://github.com/tu-darmstadt-ros-pkg/hector_slam) - hector_slam contains ROS packages related to performing SLAM in unstructured environments like those encountered in the Urban Search and Rescue (USAR) scenarios of the RoboCup Rescue competition. Licence: BSD.
  * [TinySLAM](http://wiki.ros.org/tiny_slam) - This package provides ROS implentation of the [tinySLAM](https://openslam.org/tinyslam.html) that is one of the most simpliest and lightweight SLAM methods. Licence: MIT.
  * [xivo](https://github.com/ucla-vision/xivo) - A library for visual-inertial odometry and mapping. It's free for research and educational applications, a commercial licence is available on request.
+ * [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - A ROS package for 2D lifelong mapping and localization in potentially massive maps. Licence: LGPLv2.1.
 
 ## Simulators
  * [v-rep](http://www.coppeliarobotics.com/) - A robot simulator with integrated development environment. Based on a distributed control architecture: each object/model can be individually controlled via an embedded script, a plugin, a ROS or BlueZero node, a remote API client, or a custom solution. It comes in free educational or paid commercial versions.
