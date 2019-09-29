@@ -10,7 +10,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [MORPH: Modular Open Robotics Platform for Hackers](https://github.com/roaldlemmens/morph) - An affordable modular differential drive platform for open robotics development for hackers. Licence: GPLv3.
  * [Linorobot](https://github.com/linorobot/linorobot) - ROS Compatible ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive). Licence: BSD-2 Clause.
  * [MuSHR](https://github.com/prl-mushr/mushr) - An open-source robotic hardware and software platform for learning and researching AI in a the setting of autonomous vehicles and mobile robotics. Licence: BSD 3-Clause.
- * [SCUTTLE](https://mxet.github.io/SCUTTLE/) - Open source differential-drive robot designed to support teaching within Multidisciplinary Engineering Technology (MXET) at Texas A&M. The bot is a payload-capable mobile platform that is made of readily-available off-the-shelf parts and 3D printed designs. Licence: N/A
+ * [SCUTTLE](https://mxet.github.io/SCUTTLE/) - Open source differential-drive robot designed to support teaching within Multidisciplinary Engineering Technology (MXET) at Texas A&M. The bot is a payload-capable mobile platform that is made of readily-available off-the-shelf parts and 3D printed designs. Licence: MIT.
 
 ### Robot Arms
  * [Dexter](https://github.com/HaddingtonDynamics/Dexter/wiki) - Open Source  industrial robotics arm project. For more information please see [Haddington Dynamics webpage](http://hdrobotic.com/open-source). Licence: GPLv3.
@@ -60,7 +60,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - Real-time multi-person keypoint detection library for body, face, hands, and foot estimation. Licence: permissible for non-profits and research organizations, commercial for for profit companies.
  * [Raisim](https://github.com/leggedrobotics/raisimLib) - A physics for rigid-body dynamics simulation. Licence: Free for non-commercial use.
  * [Open Motion Planning Library](https://github.com/ompl/ompl) - OMPL consists of many state-of-the-art sampling-based motion planning algorithms. Licence: BSD-3 Clause.
-
+ * [evo](https://michaelgrupp.github.io/evo/) - A Python package for the evaluation of odometry and SLAM. Licence: GPL-3.0.
 
 ### SLAM
  * [Cartographer](https://github.com/googlecartographer/cartographer) - 2D and 3D SLAM library, supports multiple platforms and sensor configurations. Licence: Apache 2.0.
