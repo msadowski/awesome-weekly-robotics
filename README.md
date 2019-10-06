@@ -18,6 +18,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 ### Quadrupeds
  * [OpenDog](http://www.xrobots.co.uk/open-dog-the-open-source-robot/) - Open Source quadruped robot designed by [James Bruton](https://www.youtube.com/playlist?list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf). Licence: GPLv3.
  * [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is a highly agile robot designed to provide an accessible platform for legged robot research. Licence: MIT.
+ * [mjbots quad A0](https://github.com/mjbots/moteus) - The mjbots quad A0 is a small dynamic quadruped, like the MIT mini-Cheetah, but fully open source. Licence: Apache 2.0.
 
 ## Open Source Sensors
  * [OpenMV](https://openmv.io/) - The OpenMV project is about creating low-cost, extensible, Python powered, machine vision modules and aims at becoming the “Arduino of Machine Vision“. Hardware Licence: CC BY-SA 3.0, Software Licence: MIT.
