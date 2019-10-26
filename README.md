@@ -71,6 +71,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [xivo](https://github.com/ucla-vision/xivo) - A library for visual-inertial odometry and mapping. It's free for research and educational applications, a commercial licence is available on request.
  * [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - A ROS package for 2D lifelong mapping and localization in potentially massive maps. Licence: LGPLv2.1.
  * [Kimera](https://github.com/MIT-SPARK/Kimera) - C++ library for real-time metric-semantic simultaneous localization and mapping. Licence: BSD.
+ * [LaMA](https://github.com/iris-ua/iris_lama) - A  lightweight Localization and Mapping library. Should run on Rasberry Pi 3B+. Licence: BSD-3 Clause.
  
 ## Simulators
  * [v-rep](http://www.coppeliarobotics.com/) - A robot simulator with integrated development environment. Based on a distributed control architecture: each object/model can be individually controlled via an embedded script, a plugin, a ROS or BlueZero node, a remote API client, or a custom solution. It comes in free educational or paid commercial versions.
@@ -112,7 +113,6 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [ODrive](https://odriverobotics.com/) - "A hobby motor for robotics". Can control two motors at the same time. Licence: MIT ([Hardware](https://github.com/madcowswe/ODriveHardware), [Software](https://github.com/madcowswe/ODrive/blob/master/LICENSE.md)).
  * [STMBL](https://github.com/rene-dev/stmbl) - AC Servo Driver for STM32F4. Licence: GPLv3.
 
-
 ## Books and Courses
  * [PID Without a PhD](https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf)[PDF] - A guide on implementing a simple controller in software that also covers tunning.
  * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms. Licence: MIT.
@@ -125,9 +125,11 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 ## Other
  * [Examples of AI Gaming the Rules](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml) - Sometimes it's convenient for the algorithm to pause the simulation to get the highest score. This spreadsheet contains lots of information of this kind.
  * [OSRTOS](https://www.osrtos.com/) - A list of open source Real Time Operating Systems (RTOS). Licence: CC BY-SA 3.0.
+ * [Haptipedia](https://haptipedia.org/) - An online, open-source, visualization of a growing database of 105+ haptic devices invented since 1992.
 
 ## Awesome Robotics Lists
  * [kiloreux](https://github.com/kiloreux/awesome-robotics)
  * [ahundt](https://github.com/ahundt/awesome-robotics)
  * [jslee02](https://github.com/jslee02/awesome-robotics-libraries/blob/master/README.md)
  * [Awesome ROS 2](https://github.com/fkromer/awesome-ros2#readme)
+ * [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling)
