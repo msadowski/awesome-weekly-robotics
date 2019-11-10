@@ -69,7 +69,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [hector_slam](https://github.com/tu-darmstadt-ros-pkg/hector_slam) - hector_slam contains ROS packages related to performing SLAM in unstructured environments like those encountered in the Urban Search and Rescue (USAR) scenarios of the RoboCup Rescue competition. Licence: BSD.
  * [TinySLAM](http://wiki.ros.org/tiny_slam) - This package provides ROS implentation of the [tinySLAM](https://openslam.org/tinyslam.html) that is one of the most simpliest and lightweight SLAM methods. Licence: MIT.
  * [xivo](https://github.com/ucla-vision/xivo) - A library for visual-inertial odometry and mapping. It's free for research and educational applications, a commercial licence is available on request.
- * [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - A ROS package for 2D lifelong mapping and localization in potentially massive maps. Licence: LGPLv2.1.
+ * [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - A ROS package for 2D lifelong mapping and localization in potentially massive maps. Licence: LGPL v2.1.
  * [Kimera](https://github.com/MIT-SPARK/Kimera) - C++ library for real-time metric-semantic simultaneous localization and mapping. Licence: BSD.
  * [LaMA](https://github.com/iris-ua/iris_lama) - A  lightweight Localization and Mapping library. Should run on Rasberry Pi 3B+. Licence: BSD-3 Clause.
  
@@ -79,7 +79,9 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Gazebo](http://gazebosim.org/) - Open Source simulator that plays nicely with ROS developed by OSRF. Supports 4 physics engines. Licence: Apache 2.0.
  * [Webots](https://cyberbotics.com/) - Free and open source simulator that includes a large collection of robots, sensors, actuators and objects model.s Licence: Apache 2.0.
  * [CARLA](http://carla.org/) - Open-source simulator for autonomous driving research. Licence: MIT.
- * [AirSim](https://github.com/microsoft/AirSim) -A simulator for drones, cars and more, built on Unreal Engine and made by Microsoft. Licence: MIT.
+ * [AirSim](https://github.com/microsoft/AirSim) - A simulator for drones, cars and more, built on Unreal Engine and made by Microsoft. Licence: MIT.
+ * [OpenRAVE](http://openrave.org/docs/latest_stable/) - OpenRAVE provides an environment for testing, developing, and deploying motion planning algorithms in real-world robotics applications. The main focus is on simulation and analysis of kinematic and geometric information related to motion planning. Licence: LGPL v.3.0.
+ * [pymanoid](https://github.com/stephane-caron/pymanoid) - Humanoid robotics controller prototyping environment based on OpenRAVE. Licence: GPL v.3.0.
 
 ## ROS
 
