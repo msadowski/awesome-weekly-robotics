@@ -62,6 +62,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Raisim](https://github.com/leggedrobotics/raisimLib) - A physics for rigid-body dynamics simulation. Licence: Free for non-commercial use.
  * [Open Motion Planning Library](https://github.com/ompl/ompl) - OMPL consists of many state-of-the-art sampling-based motion planning algorithms. Licence: BSD-3 Clause.
  * [evo](https://michaelgrupp.github.io/evo/) - A Python package for the evaluation of odometry and SLAM. Licence: GPL-3.0.
+ * [MRPT](https://www.mrpt.org/) - Mobile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas. Licence: BSD.
 
 ### SLAM
  * [Cartographer](https://github.com/googlecartographer/cartographer) - 2D and 3D SLAM library, supports multiple platforms and sensor configurations. Licence: Apache 2.0.
@@ -72,7 +73,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [slam_toolbox](https://github.com/SteveMacenski/slam_toolbox) - A ROS package for 2D lifelong mapping and localization in potentially massive maps. Licence: LGPL v2.1.
  * [Kimera](https://github.com/MIT-SPARK/Kimera) - C++ library for real-time metric-semantic simultaneous localization and mapping. Licence: BSD.
  * [LaMA](https://github.com/iris-ua/iris_lama) - A  lightweight Localization and Mapping library. Should run on Rasberry Pi 3B+. Licence: BSD-3 Clause.
- 
+
 ## Simulators
  * [v-rep](http://www.coppeliarobotics.com/) - A robot simulator with integrated development environment. Based on a distributed control architecture: each object/model can be individually controlled via an embedded script, a plugin, a ROS or BlueZero node, a remote API client, or a custom solution. It comes in free educational or paid commercial versions.
  * [ARGoS](https://www.argos-sim.info/) - ARGoS is a multi-physics robot simulator. It can simulate large-scale swarms of robots of any kind efficiently. Licence: MIT.
