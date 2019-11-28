@@ -129,6 +129,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Examples of AI Gaming the Rules](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml) - Sometimes it's convenient for the algorithm to pause the simulation to get the highest score. This spreadsheet contains lots of information of this kind.
  * [OSRTOS](https://www.osrtos.com/) - A list of open source Real Time Operating Systems (RTOS). Licence: CC BY-SA 3.0.
  * [Haptipedia](https://haptipedia.org/) - An online, open-source, visualization of a growing database of 105+ haptic devices invented since 1992.
+ * [Board-DB](https://www.hackerboards.com) - A searchable database of single board computers.
 
 ## Awesome Robotics Lists
  * [kiloreux](https://github.com/kiloreux/awesome-robotics)
