@@ -13,7 +13,8 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [SCUTTLE](https://mxet.github.io/SCUTTLE/) - Open source differential-drive robot designed to support teaching within Multidisciplinary Engineering Technology (MXET) at Texas A&M. The bot is a payload-capable mobile platform that is made of readily-available off-the-shelf parts and 3D printed designs. Licence: MIT.
 
 ### Robot Arms
- * [Dexter](https://github.com/HaddingtonDynamics/Dexter/wiki) - Open Source  industrial robotics arm project. For more information please see [Haddington Dynamics webpage](http://hdrobotic.com/open-source). Licence: GPLv3.
+ * [Dexter](https://github.com/HaddingtonDynamics/Dexter/wiki) - Open Source industrial robotics arm project. For more information please see [Haddington Dynamics webpage](http://hdrobotic.com/open-source). Licence: GPLv3.
+ * [Reachy the Bio-Inspired Robotic Arm](https://github.com/pollen-robotics/reachy) - A 7-DOF prosthesis robotic arm developed by Pollen Robotics. The software is licenced under LGPL licence while [hardware](https://cad.onshape.com/documents/66388ae9c63cef53d76acd77/w/68c2411483d5bc65c7f54234/e/581d46ba9b8ee98de9d636ee) is licenced under CC BY-SA.
 
 ### Quadrupeds
  * [OpenDog](http://www.xrobots.co.uk/open-dog-the-open-source-robot/) - Open Source quadruped robot designed by [James Bruton](https://www.youtube.com/playlist?list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf). Licence: GPLv3.
@@ -64,6 +65,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Open Motion Planning Library](https://github.com/ompl/ompl) - OMPL consists of many state-of-the-art sampling-based motion planning algorithms. Licence: BSD-3 Clause.
  * [evo](https://michaelgrupp.github.io/evo/) - A Python package for the evaluation of odometry and SLAM. Licence: GPL-3.0.
  * [MRPT](https://www.mrpt.org/) - Mobile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas. Licence: BSD.
+ * [MOOS](http://www.robots.ox.ac.uk/~mobile/MOOS/wiki/pmwiki.php) - a C++ cross platform middle ware for robotics research. It is helpful to think about it as a set of layers.
 
 ### SLAM
  * [Cartographer](https://github.com/googlecartographer/cartographer) - 2D and 3D SLAM library, supports multiple platforms and sensor configurations. Licence: Apache 2.0.
