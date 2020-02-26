@@ -95,12 +95,12 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [ROS Industrial (Melodic) Training Exercises](https://industrial-training-master.readthedocs.io/en/melodic/) - Training exercises provided by ROS-Industrial.
 
 ### Libraries and Packages
- * [towr](http://wiki.ros.org/towr)
- * [BehaviourTree.CPP](https://behaviortree.github.io/BehaviorTree.CPP/)
- * [PlotJuggler](https://github.com/facontidavide/PlotJuggler)
- * [rosshow](https://github.com/dheera/rosshow)
- * [Astrobee Robot Software](https://github.com/nasa/astrobee)
- * [vector_ros](https://github.com/betab0t/vector_ros)
+ * [towr](http://wiki.ros.org/towr) - A light-weight, Eigen-based C++ library for trajectory optimization for legged robots. Licence: BSD 3-Clause.
+ * [BehaviourTree.CPP](https://behaviortree.github.io/BehaviorTree.CPP/) - Behavior Trees Library in C++. Licence: MIT.
+ * [PlotJuggler](https://github.com/facontidavide/PlotJuggler) - QT5 based application to display time series in plots, using an intuitive "drag and drop" interface. Licence: GPLv3.
+ * [rosshow](https://github.com/dheera/rosshow) - Visualize ROS topics inside a terminal with Unicode/ASCII art. Licence: BSD 3-Clause.
+ * [Astrobee Robot Software](https://github.com/nasa/astrobee) - NASA Astrobee Robot Software. Licence: Apache v2.0.
+ * [vector_ros](https://github.com/betab0t/vector_ros) - ROS package for Anki Vector home robot. Licence: GPLv3.0.
 
 ### Drones
  * [ROSflight](http://rosflight.org/) - ROSflight is an autopilot system designed from the ground up with researchers in mind, and for easy integration with ROS. Licence: BSD 3-Clause.
