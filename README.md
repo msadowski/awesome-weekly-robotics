@@ -115,6 +115,11 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [web_video_server](https://github.com/RobotWebTools/web_video_server) - HTTP Streaming of ROS Image Topics in Multiple Formats. Licence: BSD.
  * [Webviz](https://github.com/cruise-automation/webviz) - A web based application for playback and visualization of ROS bag files made by Cruise Automation. Licence: Apache 2.0.
 
+### Interest groups
+ * [ROS-Agriculture](http://rosagriculture.org/about/) - ROS Agriculture aims to create an ecosystem to empower farmers with robotic tools.
+ * [Autoware](https://www.autoware.org/) - The Autoware Foundation is a non-profit organization supporting open-source projects enabling self-driving mobility.
+ * [ROS-Industrial](https://rosindustrial.org/) - ROS-Industrial is an open-source project that extends the advanced capabilities of ROS software to industrial relevant hardware and applications.
+
 ## Motor Controllers
  * [VESC](https://vesc-project.com/) - An open source ESC project. Quite commonly used in electronics skateboard community but also used in projects such as [MIT RACECAR](https://mit-racecar.github.io/) and [MuSHR](https://mushr.io/).
  * [ODrive](https://odriverobotics.com/) - "A hobby motor for robotics". Can control two motors at the same time. Licence: MIT ([Hardware](https://github.com/madcowswe/ODriveHardware), [Software](https://github.com/madcowswe/ODrive/blob/master/LICENSE.md)).
