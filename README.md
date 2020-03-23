@@ -45,6 +45,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [PartNet](https://cs.stanford.edu/~kaichun/partnet/) - A consistent, large-scale dataset of 3D objects annotated with fine-grained, instance-level, and hierarchical 3D part information. The dataset consists of 573,585 part instances over 26,671 3D models covering 24 object categories. Licence: MIT.
  * [UTBM Robocar dataset](https://epan-utbm.github.io/utbm_robocar_dataset/) - A dataset containing a robotic car sensor data. In the provided ROS bag files we can find information from 2 stereo cameras, 3 lidars, radar, GNSS receiver with RTK base station, IMU and 2 RGB cameras. Licence: CC BY-NC-SA 4.0.
  * [UrbanLoco](https://advdataset2019.wixsite.com/advlocalization) - Another robotic car dataset providing sensor information as a ROS bag. Licence: CC BY-NC-SA 4.0.
+ * [LIBRE-dataset](https://sites.google.com/g.sp.m.is.nagoya-u.ac.jp/libre-dataset/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0) - LiDAR Benchmark Reference dataset comparing 12 LiDAR models across various scenarios and conditions for self-driving cars.
 
 ## Drones
 
