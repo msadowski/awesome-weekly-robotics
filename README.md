@@ -20,6 +20,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [OpenDog](http://www.xrobots.co.uk/open-dog-the-open-source-robot/) - Open Source quadruped robot designed by [James Bruton](https://www.youtube.com/playlist?list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf). Licence: GPLv3.
  * [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is a highly agile robot designed to provide an accessible platform for legged robot research. Licence: MIT.
  * [mjbots quad A0](https://github.com/mjbots/moteus) - The mjbots quad A0 is a small dynamic quadruped, like the MIT mini-Cheetah, but fully open source. Licence: Apache 2.0.
+ * [Stanford Quadruped (Pupper)](https://github.com/stanfordroboticsclub/StanfordQuadruped) - A low cost quadruped robot with the BoM coming to around $600-900 depending on what components you already have. Licence: MIT.
 
 ## Open Source Sensors
  * [OpenMV](https://openmv.io/) - The OpenMV project is about creating low-cost, extensible, Python powered, machine vision modules and aims at becoming the “Arduino of Machine Vision“. Hardware Licence: CC BY-SA 3.0, Software Licence: MIT.
@@ -141,6 +142,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [OSRTOS](https://www.osrtos.com/) - A list of open source Real Time Operating Systems (RTOS). Licence: CC BY-SA 3.0.
  * [Haptipedia](https://haptipedia.org/) - An online, open-source, visualization of a growing database of 105+ haptic devices invented since 1992.
  * [Board-DB](https://www.hackerboards.com) - A searchable database of single board computers.
+ * [A fast introduction to Robotics (v 2.0)](https://medium.com/@harshmaithani09/a-fast-introduction-to-robotics-v-2-0-6d07516e053f) - A hand-picked selection of Robotics resources covering robotics from various angles.
 
 ## Awesome Robotics Lists
  * [kiloreux](https://github.com/kiloreux/awesome-robotics)
