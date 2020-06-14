@@ -69,6 +69,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [MRPT](https://www.mrpt.org/) - Mobile Robot Programming Toolkit provides developers with portable and well-tested applications and libraries covering data structures and algorithms employed in common robotics research areas. Licence: BSD.
  * [MOOS](http://www.robots.ox.ac.uk/~mobile/MOOS/wiki/pmwiki.php) - a C++ cross platform middle ware for robotics research. It is helpful to think about it as a set of layers.
  * [pinocchio](https://github.com/stack-of-tasks/pinocchio) - a fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives. Licence: BSD-2 Clause.
+ * [OpenSHC](https://github.com/csiro-robotics/syropod_highlevel_controller) - a versatile multilegged robot controller capable of generating body poses and gaits for quasi-static multilegged robots. Licence: CSIRO Open Source Software Licence (variation of BSD / MIT).
 
 ### SLAM
  * [Cartographer](https://github.com/googlecartographer/cartographer) - 2D and 3D SLAM library, supports multiple platforms and sensor configurations. Licence: Apache 2.0.
