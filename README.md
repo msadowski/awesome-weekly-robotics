@@ -144,6 +144,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Haptipedia](https://haptipedia.org/) - An online, open-source, visualization of a growing database of 105+ haptic devices invented since 1992.
  * [Board-DB](https://www.hackerboards.com) - A searchable database of single board computers.
  * [A fast introduction to Robotics (v 2.0)](https://medium.com/@harshmaithani09/a-fast-introduction-to-robotics-v-2-0-6d07516e053f) - A hand-picked selection of Robotics resources covering robotics from various angles.
+ * [ContinuumRobotExamples](https://github.com/JohnDTill/ContinuumRobotExamples) - Continuum robots have elastic links which are capable of large-scale continuous deformations. This repo has example scripts to simulate continuum robots of various design paradigms. Each example is accompanied by a short write-up in PDF format. Licence: MIT.
 
 ## Awesome Robotics Lists
  * [kiloreux](https://github.com/kiloreux/awesome-robotics)
