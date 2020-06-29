@@ -21,6 +21,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is a highly agile robot designed to provide an accessible platform for legged robot research. Licence: MIT.
  * [mjbots quad A0](https://github.com/mjbots/moteus) - The mjbots quad A0 is a small dynamic quadruped, like the MIT mini-Cheetah, but fully open source. Licence: Apache 2.0.
  * [Stanford Quadruped (Pupper)](https://github.com/stanfordroboticsclub/StanfordQuadruped) - A low cost quadruped robot with the BoM coming to around $600-900 depending on what components you already have. Licence: MIT.
+ * [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) - An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research. Licence: BSD-3.
 
 ## Open Source Sensors
  * [OpenMV](https://openmv.io/) - The OpenMV project is about creating low-cost, extensible, Python powered, machine vision modules and aims at becoming the “Arduino of Machine Vision“. Hardware Licence: CC BY-SA 3.0, Software Licence: MIT.
@@ -128,6 +129,9 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [VESC](https://vesc-project.com/) - An open source ESC project. Quite commonly used in electronics skateboard community but also used in projects such as [MIT RACECAR](https://mit-racecar.github.io/) and [MuSHR](https://mushr.io/).
  * [ODrive](https://odriverobotics.com/) - "A hobby motor for robotics". Can control two motors at the same time. Licence: MIT ([Hardware](https://github.com/madcowswe/ODriveHardware), [Software](https://github.com/madcowswe/ODrive/blob/master/LICENSE.md)).
  * [STMBL](https://github.com/rene-dev/stmbl) - AC Servo Driver for STM32F4. Licence: GPLv3.
+
+## Electronics
+ * [WireViz](https://github.com/formatc1702/WireViz) - A tool for documenting cables, wiring harnesses and connector pinouts by describing them in YAML format. Licence: GPLv3.0.
 
 ## Books and Courses
  * [PID Without a PhD](https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf)[PDF] - A guide on implementing a simple controller in software that also covers tunning.
