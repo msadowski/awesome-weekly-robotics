@@ -82,6 +82,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Kimera](https://github.com/MIT-SPARK/Kimera) - C++ library for real-time metric-semantic simultaneous localization and mapping. Licence: BSD.
  * [LaMA](https://github.com/iris-ua/iris_lama) - A  lightweight Localization and Mapping library. Should run on Rasberry Pi 3B+. Licence: BSD-3 Clause.
  * [RTAB-Map](https://introlab.github.io/rtabmap/) - RTAB-Map (Real-Time Appearance-Based Mapping) is a RGB-D, Stereo and Lidar Graph-Based SLAM approach based on an incremental appearance-based loop closure detector. Licence depends on the build type and usage, please see website for more details.
+ * [Basalt](https://gitlab.com/VladyslavUsenko/basalt) - Library for visual-inertial odometry and mapping. Licence: BSD-3 Clause.
 
 ## Simulators
  * [v-rep](http://www.coppeliarobotics.com/) - A robot simulator with integrated development environment. Based on a distributed control architecture: each object/model can be individually controlled via an embedded script, a plugin, a ROS or BlueZero node, a remote API client, or a custom solution. It comes in free educational or paid commercial versions.
