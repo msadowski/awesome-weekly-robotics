@@ -11,6 +11,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Linorobot](https://github.com/linorobot/linorobot) - ROS Compatible ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive). Licence: BSD-2 Clause.
  * [MuSHR](https://github.com/prl-mushr/mushr) - An open-source robotic hardware and software platform for learning and researching AI in a the setting of autonomous vehicles and mobile robotics. Licence: BSD 3-Clause.
  * [SCUTTLE](https://mxet.github.io/SCUTTLE/) - Open source differential-drive robot designed to support teaching within Multidisciplinary Engineering Technology (MXET) at Texas A&M. The bot is a payload-capable mobile platform that is made of readily-available off-the-shelf parts and 3D printed designs. Licence: MIT.
+ * [Mars-Rover](https://github.com/jakkra/Mars-Rover) - Curiosity/Perseverance inspired Rover with open source hardware and software (C++). Licence: MIT
 
 ### Robot Arms
  * [Dexter](https://github.com/HaddingtonDynamics/Dexter/wiki) - Open Source industrial robotics arm project. For more information please see [Haddington Dynamics webpage](http://hdrobotic.com/open-source). Licence: GPLv3.
