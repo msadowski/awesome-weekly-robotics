@@ -108,6 +108,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [rosshow](https://github.com/dheera/rosshow) - Visualize ROS topics inside a terminal with Unicode/ASCII art. Licence: BSD 3-Clause.
  * [Astrobee Robot Software](https://github.com/nasa/astrobee) - NASA Astrobee Robot Software. Licence: Apache v2.0.
  * [vector_ros](https://github.com/betab0t/vector_ros) - ROS package for Anki Vector home robot. Licence: GPLv3.0.
+ * [SMACC](https://github.com/reelrbtx/SMACC) - an event-driven, asynchronous, behavioral state machine library for real-time ROS (Robotic Operating System) applications written in C++. Licence: BSD 3-Clause.
 
 ### Drones
  * [ROSflight](http://rosflight.org/) - ROSflight is an autopilot system designed from the ground up with researchers in mind, and for easy integration with ROS. Licence: BSD 3-Clause.
