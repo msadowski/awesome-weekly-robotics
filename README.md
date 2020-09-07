@@ -95,6 +95,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [AirSim](https://github.com/microsoft/AirSim) - A simulator for drones, cars and more, built on Unreal Engine and made by Microsoft. Licence: MIT.
  * [OpenRAVE](http://openrave.org/docs/latest_stable/) - OpenRAVE provides an environment for testing, developing, and deploying motion planning algorithms in real-world robotics applications. The main focus is on simulation and analysis of kinematic and geometric information related to motion planning. Licence: LGPL v.3.0.
  * [pymanoid](https://github.com/stephane-caron/pymanoid) - Humanoid robotics controller prototyping environment based on OpenRAVE. Licence: GPL v.3.0.
+ * [Flightmare](https://github.com/uzh-rpg/flightmare) - An Open Flexible Quadrotor Simulator. Licence: MIT.
 
 ## ROS
 
