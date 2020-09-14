@@ -97,6 +97,10 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [pymanoid](https://github.com/stephane-caron/pymanoid) - Humanoid robotics controller prototyping environment based on OpenRAVE. Licence: GPL v.3.0.
  * [Flightmare](https://github.com/uzh-rpg/flightmare) - An Open Flexible Quadrotor Simulator. Licence: MIT.
 
+## Middleware
+ * [ROS](https://www.ros.org/) -The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project.
+ * [MOOS-IvP](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage) - MOOS-IvP is a set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
+
 ## ROS
 
 ### Courses and Tutorials
