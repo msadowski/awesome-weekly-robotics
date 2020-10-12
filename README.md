@@ -29,6 +29,9 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 ## Open Source Sensors
  * [OpenMV](https://openmv.io/) - The OpenMV project is about creating low-cost, extensible, Python powered, machine vision modules and aims at becoming the “Arduino of Machine Vision“. Hardware Licence: CC BY-SA 3.0, Software Licence: MIT.
 
+## Bionics
+ * [Open-Source Leg](https://opensourceleg.com/) - Open-source actuated leg prosthetics with a total cost of approx. $28.5k to produce. Licence: CC BY 3.0.
+
 ## Graphical User Interfaces
  * [Open MCT](https://github.com/nasa/openmct) - Open MCT (Open Mission Control Technologies) is a next-generation mission control framework for visualization of data on desktop and mobile devices. It is developed at NASA's Ames Research Center, and is being used by NASA for data analysis of spacecraft missions, as well as planning and operation of experimental rover systems. Licence: Apache 2.0.
 
