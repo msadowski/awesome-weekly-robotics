@@ -147,9 +147,9 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [WireViz](https://github.com/formatc1702/WireViz) - A tool for documenting cables, wiring harnesses and connector pinouts by describing them in YAML format. Licence: GPLv3.0.
 
 ## Books and Courses
- * [PID Without a PhD](https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf)[PDF] - A guide on implementing a simple controller in software that also covers tunning.
+ * [PID Without a PhD](https://www.wescottdesign.com/articles/pid/pidWithoutAPhd.pdf)[PDF] - A guide on implementing a simple controller in software that also covers tuning.
  * [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) - Python sample codes for robotics algorithms. Licence: MIT.
- * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. Licence: CC.
+ * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters, extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. Licence: CC.
  * [SLAM for Dummies](https://dspace.mit.edu/bitstream/handle/1721.1/119149/16-412j-spring-2005/contents/projects/1aslam_blas_repo.pdf)[PDF] - Introductory document to SLAM and Extended Kalman Filter. Comes with example C++ implementation source code.
  * [The Autonomous Driving Cookbook](https://github.com/Microsoft/AutonomousDrivingCookbook) - A preview of Autonomous Driving tutorials that are being developed by Microsoft.
  * [Practical Deep Learning for Coders](https://course.fast.ai/index.html) - Free course on neural networks from [fast.ai](https://www.fast.ai/). Currently it contains 14 lessons.
