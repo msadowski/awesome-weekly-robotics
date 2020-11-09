@@ -42,6 +42,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Cycloidal Reduction Drive Generator](https://github.com/mawildoer/cycloidal_generator) - A cycloidal reduction drive generator script for Autodesk Fusion360. Licence: Public Domain.
  * [Pointcloudprinter](https://github.com/marian42/pointcloudprinter) - Prepare pointclouds from aerial LIDAR scans for 3D printing. Licence: MIT.
  * [LinuxCNC](http://linuxcnc.org/) - Open Source software that can drive milling machines, lathes, 3d printers, laser cutters, plasma cutters, robot arms, hexapods, and more. Licence: GPLv2.
+ * [Freeloader](https://www.creativemachineslab.com/freeloader.html) - A low cost, desktop size, open source, universal testing machine, designed for inexpensive high-throughput material testing. Licence: BSD (according to the [paper](https://www.creativemachineslab.com/uploads/6/9/3/4/69340277/detc2011_amend.pdf)).
 
 ## Datasets
  * [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/) - Vision benchmark captured in Karlsruhe, contains data fro LiDAR, GPS and stereo cameras. Licence: CC BY-NC-SA 3.0.
