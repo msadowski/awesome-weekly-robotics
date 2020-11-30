@@ -163,6 +163,10 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Board-DB](https://www.hackerboards.com) - A searchable database of single board computers.
  * [A fast introduction to Robotics (v 2.0)](https://medium.com/@harshmaithani09/a-fast-introduction-to-robotics-v-2-0-6d07516e053f) - A hand-picked selection of Robotics resources covering robotics from various angles.
  * [ContinuumRobotExamples](https://github.com/JohnDTill/ContinuumRobotExamples) - Continuum robots have elastic links which are capable of large-scale continuous deformations. This repo has example scripts to simulate continuum robots of various design paradigms. Each example is accompanied by a short write-up in PDF format. Licence: MIT.
+ * [AI Incident Database](https://incidentdatabase.ai/summaries/incidents) - a well documented database of AI incidents.
+
+## Documentaries
+* [Pulling Power from the Sky: The Story of Makani](https://youtu.be/qd_hEja6bzE) - A documentary on Makani, a company that was producing energy from wind using kites.
 
 ## Awesome Robotics Lists
  * [kiloreux](https://github.com/kiloreux/awesome-robotics)
