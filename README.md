@@ -78,6 +78,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [MOOS](http://www.robots.ox.ac.uk/~mobile/MOOS/wiki/pmwiki.php) - a C++ cross platform middle ware for robotics research. It is helpful to think about it as a set of layers.
  * [pinocchio](https://github.com/stack-of-tasks/pinocchio) - a fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives. Licence: BSD-2 Clause.
  * [OpenSHC](https://github.com/csiro-robotics/syropod_highlevel_controller) - a versatile multilegged robot controller capable of generating body poses and gaits for quasi-static multilegged robots. Licence: CSIRO Open Source Software Licence (variation of BSD / MIT).
+ * [EXOTica](https://github.com/ipab-slmc/exotica) - a general Optimisation Toolset for Robotics platforms, written in C++ with bindings for Python. Its motivation is to provide a more streamlined process for developing algorithms for tasks such as Inverse Kinematics, Trajectory Optimisation, and Optimal Control. Licence: BSD.
 
 ### SLAM
  * [Cartographer](https://github.com/googlecartographer/cartographer) - 2D and 3D SLAM library, supports multiple platforms and sensor configurations. Licence: Apache 2.0.
@@ -166,7 +167,8 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [AI Incident Database](https://incidentdatabase.ai/summaries/incidents) - a well documented database of AI incidents.
 
 ## Documentaries
-* [Pulling Power from the Sky: The Story of Makani](https://youtu.be/qd_hEja6bzE) - A documentary on Makani, a company that was producing energy from wind using kites.
+ * [Pulling Power from the Sky: The Story of Makani](https://youtu.be/qd_hEja6bzE) - A documentary on Makani, a company that was producing energy from wind using kites.
+ * [How to Start a Robot Revolution](https://www.redhat.com/en/open-source-stories/robots/breaking-the-wheel) - a Red Hat documentary on ROS.
 
 ## Awesome Robotics Lists
  * [kiloreux](https://github.com/kiloreux/awesome-robotics)
