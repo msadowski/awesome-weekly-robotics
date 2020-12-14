@@ -66,7 +66,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Libraries and Frameworks
  * [Visual Servoing Platform](http://visp.inria.fr/#) - This project is a cross-platform library (Linux, Windows, Mac) that allows prototyping and developing applications using visual tracking and visual servoing technics. Licence: GPLv2.
- * [Point Cloud Library](http://pointclouds.org/) - Standalone, large scale, open project for 2D/3D image and point cloud processing. Licence: BSD
+ * [Point Cloud Library](http://pointclouds.org/) - Standalone, large scale, open project for 2D/3D image and point cloud processing. Licence: BSD.
  * [OpenCV](https://opencv.org/) - Open Source computer vision library. Licence: BSD-3 Clause.
  * [videoflow](https://github.com/videoflow/videoflow) - Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment. Licence: MIT.
  * [Robotics Library](https://github.com/roboticslibrary/rl) - Self-contained C++ library for rigid body kinematics and dynamics, motion planning, and control. Licence: BSD-2 Clause.
@@ -79,6 +79,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [pinocchio](https://github.com/stack-of-tasks/pinocchio) - a fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives. Licence: BSD-2 Clause.
  * [OpenSHC](https://github.com/csiro-robotics/syropod_highlevel_controller) - a versatile multilegged robot controller capable of generating body poses and gaits for quasi-static multilegged robots. Licence: CSIRO Open Source Software Licence (variation of BSD / MIT).
  * [EXOTica](https://github.com/ipab-slmc/exotica) - a general Optimisation Toolset for Robotics platforms, written in C++ with bindings for Python. Its motivation is to provide a more streamlined process for developing algorithms for tasks such as Inverse Kinematics, Trajectory Optimisation, and Optimal Control. Licence: BSD.
+ * [Crocoddyl](https://github.com/loco-3d/crocoddyl) - an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms. Licence: BSD 3-Clause.
 
 ### SLAM
  * [Cartographer](https://github.com/googlecartographer/cartographer) - 2D and 3D SLAM library, supports multiple platforms and sensor configurations. Licence: Apache 2.0.
@@ -121,6 +122,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Astrobee Robot Software](https://github.com/nasa/astrobee) - NASA Astrobee Robot Software. Licence: Apache v2.0.
  * [vector_ros](https://github.com/betab0t/vector_ros) - ROS package for Anki Vector home robot. Licence: GPLv3.0.
  * [SMACC](https://github.com/reelrbtx/SMACC) - an event-driven, asynchronous, behavioral state machine library for real-time ROS (Robotic Operating System) applications written in C++. Licence: BSD 3-Clause.
+ * [Region Detection](https://github.com/swri-robotics/Region-Detection) - This library uses a variety of opencv and pcl filters to detect the contour of hand-drawn regions. Licence: BSD.
 
 ### Drones
  * [ROSflight](http://rosflight.org/) - ROSflight is an autopilot system designed from the ground up with researchers in mind, and for easy integration with ROS. Licence: BSD 3-Clause.
