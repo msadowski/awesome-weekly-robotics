@@ -92,6 +92,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [LaMA](https://github.com/iris-ua/iris_lama) - A  lightweight Localization and Mapping library. Should run on Rasberry Pi 3B+. Licence: BSD-3 Clause.
  * [RTAB-Map](https://introlab.github.io/rtabmap/) - RTAB-Map (Real-Time Appearance-Based Mapping) is a RGB-D, Stereo and Lidar Graph-Based SLAM approach based on an incremental appearance-based loop closure detector. Licence depends on the build type and usage, please see website for more details.
  * [Basalt](https://gitlab.com/VladyslavUsenko/basalt) - Library for visual-inertial odometry and mapping. Licence: BSD-3 Clause.
+ * [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - A real-time lidar-inertial odometry package with very promising results for multi-beam LiDARS. Licence: BSD-3 Clause.
 
 ## Simulators
  * [v-rep](http://www.coppeliarobotics.com/) - A robot simulator with integrated development environment. Based on a distributed control architecture: each object/model can be individually controlled via an embedded script, a plugin, a ROS or BlueZero node, a remote API client, or a custom solution. It comes in free educational or paid commercial versions.
@@ -107,6 +108,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 ## Middleware
  * [ROS](https://www.ros.org/) -The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project.
  * [MOOS-IvP](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage) - MOOS-IvP is a set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
+ * [YARP](https://github.com/robotology/yarp) - Yet Another Robot Platform middleware for robotics.
 
 ## ROS
 
@@ -123,6 +125,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [vector_ros](https://github.com/betab0t/vector_ros) - ROS package for Anki Vector home robot. Licence: GPLv3.0.
  * [SMACC](https://github.com/reelrbtx/SMACC) - an event-driven, asynchronous, behavioral state machine library for real-time ROS (Robotic Operating System) applications written in C++. Licence: BSD 3-Clause.
  * [Region Detection](https://github.com/swri-robotics/Region-Detection) - This library uses a variety of opencv and pcl filters to detect the contour of hand-drawn regions. Licence: BSD.
+ * [Robot-Runner](https://github.com/S2-group/robot-runner) - Robot Runner (RR) is a tool to automatically execute measurement-based experiments on robotics software. Licence: MIT.
 
 ### Drones
  * [ROSflight](http://rosflight.org/) - ROSflight is an autopilot system designed from the ground up with researchers in mind, and for easy integration with ROS. Licence: BSD 3-Clause.
