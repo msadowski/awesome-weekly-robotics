@@ -35,6 +35,9 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 ## Graphical User Interfaces
  * [Open MCT](https://github.com/nasa/openmct) - Open MCT (Open Mission Control Technologies) is a next-generation mission control framework for visualization of data on desktop and mobile devices. It is developed at NASA's Ames Research Center, and is being used by NASA for data analysis of spacecraft missions, as well as planning and operation of experimental rover systems. Licence: Apache 2.0.
 
+## Humanoid Robotics
+* [Halodi Robotics](https://www.halodi.com/) - Mission is to bring safe and capable humanoid robots to everyone. Creators of the [EVE humanoid robot platform](https://www.halodi.com/ever3) and the [REVO motors](https://www.halodi.com/revo1) with the highest torque-to-weight for direct drive robotics on the market.
+
 ## Soft Robotics
  * [soft robotics toolkit](https://softroboticstoolkit.com/) - The Soft Robotics Toolkit is a collection of shared resources to support the design, fabrication, modeling, characterization, and control of soft robotic devices. The Toolkit was developed as part of educational research being undertaken in the [Harvard Biodesign Lab](http://biodesign.seas.harvard.edu/). Licence: Open for research purposes, need to contact the organization for commercial usages.
 
