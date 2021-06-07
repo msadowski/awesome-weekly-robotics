@@ -37,6 +37,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Soft Robotics
  * [soft robotics toolkit](https://softroboticstoolkit.com/) - The Soft Robotics Toolkit is a collection of shared resources to support the design, fabrication, modeling, characterization, and control of soft robotic devices. The Toolkit was developed as part of educational research being undertaken in the [Harvard Biodesign Lab](http://biodesign.seas.harvard.edu/). Licence: Open for research purposes, need to contact the organization for commercial usages.
+ * [Punyo](https://punyo.tech/) - Soft Bubble Grippers for Robust and Perceptive Manipulation from Toyota Research Institute. Licence: CC BY-NC 4.0.
 
 ## Machining and 3D Printing
  * [Cycloidal Reduction Drive Generator](https://github.com/mawildoer/cycloidal_generator) - A cycloidal reduction drive generator script for Autodesk Fusion360. Licence: Public Domain.
