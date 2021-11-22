@@ -128,6 +128,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [SMACC](https://github.com/reelrbtx/SMACC) - an event-driven, asynchronous, behavioral state machine library for real-time ROS (Robotic Operating System) applications written in C++. Licence: BSD 3-Clause.
  * [Region Detection](https://github.com/swri-robotics/Region-Detection) - This library uses a variety of opencv and pcl filters to detect the contour of hand-drawn regions. Licence: BSD.
  * [Robot-Runner](https://github.com/S2-group/robot-runner) - Robot Runner (RR) is a tool to automatically execute measurement-based experiments on robotics software. Licence: MIT.
+ * [Allan Variance ROS](https://github.com/ori-drs/allan_variance_ros) - ROS package which loads a rosbag of IMU data and computes Allan Variance parameters. Licence: BSD 3-Clause.
 
 ### Drones
  * [ROSflight](http://rosflight.org/) - ROSflight is an autopilot system designed from the ground up with researchers in mind, and for easy integration with ROS. Licence: BSD 3-Clause.
