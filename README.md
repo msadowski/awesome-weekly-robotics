@@ -166,6 +166,9 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [The Autonomous Driving Cookbook](https://github.com/Microsoft/AutonomousDrivingCookbook) - A preview of Autonomous Driving tutorials that are being developed by Microsoft.
  * [Practical Deep Learning for Coders](https://course.fast.ai/index.html) - Free course on neural networks from [fast.ai](https://www.fast.ai/). Currently it contains 14 lessons.
  * [A Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course/blob/master/README.rst) - Freely available Machine Learning course using Python developed by [Machine Learning Mindset](https://www.machinelearningmindset.com/blog/).
+ * [Robotics 501: Mathematics for Robotics](https://github.com/michiganrobotics/rob501) - ROB 501: Mathematics for Robotics, is a graduate-level course at the University of Michigan that introduces applied mathematics for robotics engineers.
+
+
 
 ## Other
  * [Examples of AI Gaming the Rules](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml) - Sometimes it's convenient for the algorithm to pause the simulation to get the highest score. This spreadsheet contains lots of information of this kind.
