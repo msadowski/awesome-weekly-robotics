@@ -167,7 +167,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Practical Deep Learning for Coders](https://course.fast.ai/index.html) - Free course on neural networks from [fast.ai](https://www.fast.ai/). Currently it contains 14 lessons.
  * [A Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course/blob/master/README.rst) - Freely available Machine Learning course using Python developed by [Machine Learning Mindset](https://www.machinelearningmindset.com/blog/).
  * [Robotics 501: Mathematics for Robotics](https://github.com/michiganrobotics/rob501) - ROB 501: Mathematics for Robotics, is a graduate-level course at the University of Michigan that introduces applied mathematics for robotics engineers.
-
+ * [Calibration Desk Reference](https://www.tangramvision.com/resources/calibration-desk-reference) - an 80 page long document on sensor calibration from Tangram Vision with a direct download link on the website.
 
 
 ## Other
