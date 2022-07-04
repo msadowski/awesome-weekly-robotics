@@ -109,6 +109,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [OpenRAVE](http://openrave.org/docs/latest_stable/) - OpenRAVE provides an environment for testing, developing, and deploying motion planning algorithms in real-world robotics applications. The main focus is on simulation and analysis of kinematic and geometric information related to motion planning. Licence: LGPL v.3.0.
  * [pymanoid](https://github.com/stephane-caron/pymanoid) - Humanoid robotics controller prototyping environment based on OpenRAVE. Licence: GPL v.3.0.
  * [Flightmare](https://github.com/uzh-rpg/flightmare) - An Open Flexible Quadrotor Simulator. Licence: MIT.
+ * [pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS2 enabled 2D mobile robot simulator for behavior prototyping. Licence: BSD.
 
 ## Middleware
  * [ROS](https://www.ros.org/) -The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project.
@@ -120,6 +121,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 ### Courses and Tutorials
  * [Hello (Real) World with ROS – Robot Operating System](https://online-learning.tudelft.nl/courses/hello-real-world-with-ros-robot-operating-systems/) - Free edX MOOC on ROS basics taught by researchers from Delft University of Technology.
  * [ROS Industrial (Melodic) Training Exercises](https://industrial-training-master.readthedocs.io/en/melodic/) - Training exercises provided by ROS-Industrial.
+ * [Build Mobile Robots with ROS2](https://www.manning.com/liveprojectseries/build-mobile-robots-with-ROS2?utm_source=mateusz&utm_medium=affiliate&utm_campaign=liveproject_sadowski_build_5_6_22&a_aid=mateusz&a_bid=a308c7c4) - A self-paced, project-based course on ROS2 for Mobile Robots developed by the author of this repo.
 
 ### Libraries and Packages
  * [towr](http://wiki.ros.org/towr) - A light-weight, Eigen-based C++ library for trajectory optimization for legged robots. Licence: BSD 3-Clause.
@@ -170,6 +172,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [A Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course/blob/master/README.rst) - Freely available Machine Learning course using Python developed by [Machine Learning Mindset](https://www.machinelearningmindset.com/blog/).
  * [Robotics 501: Mathematics for Robotics](https://github.com/michiganrobotics/rob501) - ROB 501: Mathematics for Robotics, is a graduate-level course at the University of Michigan that introduces applied mathematics for robotics engineers.
  * [Calibration Desk Reference](https://www.tangramvision.com/resources/calibration-desk-reference) - an 80 page long document on sensor calibration from Tangram Vision with a direct download link on the website.
+ * [Elements of Robotics](https://link.springer.com/book/10.1007/978-3-319-62533-1) - Open access book on robotics, directed towards beginners. The book has many algorithmic activities and exercises.
 
 
 ## Other
