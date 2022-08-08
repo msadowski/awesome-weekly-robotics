@@ -136,6 +136,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Allan Variance ROS](https://github.com/ori-drs/allan_variance_ros) - ROS package which loads a rosbag of IMU data and computes Allan Variance parameters. Licence: BSD 3-Clause.
  * [Voxgraph](https://github.com/ethz-asl/voxgraph) - Globally consistent volumetric mapping framework. It represents the world as a collection of Signed Distance Function submaps, which it aligns through pose graph optimization. Licence: BSD 2-Clause.
  * [jupyetlab-urdf](https://github.com/ihuicatl/jupyterlab-urdf) - An extension to display URDF in JupyterLab. Licence: BSD 3-Clause.
+ * [Quad-SDK](https://github.com/robomechanics/quad-sdk) - ROS-based framework for agile quadrupedal locomotion. Licence: MIT.
 
 ### Drones
  * [ROSflight](http://rosflight.org/) - ROSflight is an autopilot system designed from the ground up with researchers in mind, and for easy integration with ROS. Licence: BSD 3-Clause.
