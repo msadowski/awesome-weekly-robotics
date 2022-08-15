@@ -155,6 +155,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [ROS-Agriculture](http://rosagriculture.org/about/) - ROS Agriculture aims to create an ecosystem to empower farmers with robotic tools.
  * [Autoware](https://www.autoware.org/) - The Autoware Foundation is a non-profit organization supporting open-source projects enabling self-driving mobility.
  * [ROS-Industrial](https://rosindustrial.org/) - ROS-Industrial is an open-source project that extends the advanced capabilities of ROS software to industrial relevant hardware and applications.
+ * [ROS Sports](https://ros-sports.readthedocs.io/en/latest/) - a community aiming to utilize ROS for competitive robotic sports.
 
 ## Motor Controllers
  * [VESC](https://vesc-project.com/) - An open source ESC project. Quite commonly used in electronics skateboard community but also used in projects such as [MIT RACECAR](https://mit-racecar.github.io/) and [MuSHR](https://mushr.io/).
