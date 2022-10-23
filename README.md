@@ -85,6 +85,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Crocoddyl](https://github.com/loco-3d/crocoddyl) - an optimal control library for robot control under contact sequence. Its solver is based on various efficient Differential Dynamic Programming (DDP)-like algorithms. Licence: BSD 3-Clause.
  * [Open3D](https://github.com/isl-org/Open3D) - an open-source library that supports rapid development of software that deals with 3D data. The Open3D frontend exposes a set of carefully selected data structures and algorithms in both C++ and Python. Licence: MIT.
  * [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python) - this toolbox brings robotics-specific functionality to Python, and leverages Python's advantages of portability, ubiquity and support, and the capability of the open-source ecosystem for linear algebra (numpy, scipy), graphics (matplotlib, three.js, WebGL), interactive development (jupyter, jupyterlab, mybinder.org), and documentation (sphinx). Licence: MIT.
+ * [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) - A modular and extensible Coverage Path Planning library. Licence: BSD-3-Clause.
 
 ### SLAM
  * [Cartographer](https://github.com/googlecartographer/cartographer) - 2D and 3D SLAM library, supports multiple platforms and sensor configurations. Licence: Apache 2.0.
