@@ -177,6 +177,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Robotics 501: Mathematics for Robotics](https://github.com/michiganrobotics/rob501) - ROB 501: Mathematics for Robotics, is a graduate-level course at the University of Michigan that introduces applied mathematics for robotics engineers.
  * [Calibration Desk Reference](https://www.tangramvision.com/resources/calibration-desk-reference) - an 80 page long document on sensor calibration from Tangram Vision with a direct download link on the website.
  * [Elements of Robotics](https://link.springer.com/book/10.1007/978-3-319-62533-1) - Open access book on robotics, directed towards beginners. The book has many algorithmic activities and exercises.
+ * [Foundations of Robotics](https://foundations-of-robotics.org/) - an Open-access book on robotics, rather for beginners.
 
 
 ## Other
