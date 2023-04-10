@@ -58,6 +58,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [UTBM Robocar dataset](https://epan-utbm.github.io/utbm_robocar_dataset/) - A dataset containing a robotic car sensor data. In the provided ROS bag files we can find information from 2 stereo cameras, 3 lidars, radar, GNSS receiver with RTK base station, IMU and 2 RGB cameras. Licence: CC BY-NC-SA 4.0.
  * [UrbanLoco](https://advdataset2019.wixsite.com/advlocalization) - Another robotic car dataset providing sensor information as a ROS bag. Licence: CC BY-NC-SA 4.0.
  * [LIBRE-dataset](https://sites.google.com/g.sp.m.is.nagoya-u.ac.jp/libre-dataset/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0) - LiDAR Benchmark Reference dataset comparing 12 LiDAR models across various scenarios and conditions for self-driving cars.
+ * [USTC FLICAR Dataset](https://ustc-flicar.github.io/) - a heavy-duty VTOL dataset captured by a robotic bucket truck.
 
 ## Drones
 
@@ -86,6 +87,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Open3D](https://github.com/isl-org/Open3D) - an open-source library that supports rapid development of software that deals with 3D data. The Open3D frontend exposes a set of carefully selected data structures and algorithms in both C++ and Python. Licence: MIT.
  * [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python) - this toolbox brings robotics-specific functionality to Python, and leverages Python's advantages of portability, ubiquity and support, and the capability of the open-source ecosystem for linear algebra (numpy, scipy), graphics (matplotlib, three.js, WebGL), interactive development (jupyter, jupyterlab, mybinder.org), and documentation (sphinx). Licence: MIT.
  * [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) - A modular and extensible Coverage Path Planning library. Licence: BSD-3-Clause.
+ * [Segment Anything](https://github.com/facebookresearch/segment-anything) - The Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. Licence: Apache 2.0.
 
 ### SLAM
  * [Cartographer](https://github.com/googlecartographer/cartographer) - 2D and 3D SLAM library, supports multiple platforms and sensor configurations. Licence: Apache 2.0.
@@ -158,10 +160,11 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [ROS-Industrial](https://rosindustrial.org/) - ROS-Industrial is an open-source project that extends the advanced capabilities of ROS software to industrial relevant hardware and applications.
  * [ROS Sports](https://ros-sports.readthedocs.io/en/latest/) - a community aiming to utilize ROS for competitive robotic sports.
 
-## Motor Controllers
+## Motor Control
  * [VESC](https://vesc-project.com/) - An open source ESC project. Quite commonly used in electronics skateboard community but also used in projects such as [MIT RACECAR](https://mit-racecar.github.io/) and [MuSHR](https://mushr.io/).
  * [ODrive](https://odriverobotics.com/) - "A hobby motor for robotics". Can control two motors at the same time. Licence: MIT ([Hardware](https://github.com/madcowswe/ODriveHardware), [Software](https://github.com/madcowswe/ODrive/blob/master/LICENSE.md)).
  * [STMBL](https://github.com/rene-dev/stmbl) - AC Servo Driver for STM32F4. Licence: GPLv3.
+ * [SimpleFOC](https://simplefoc.com/) - Arduino Compatible Open Source Field Oriented Control (FOC) project. Licence: MIT.
 
 ## Electronics
  * [WireViz](https://github.com/formatc1702/WireViz) - A tool for documenting cables, wiring harnesses and connector pinouts by describing them in YAML format. Licence: GPLv3.0.
@@ -200,3 +203,5 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [jslee02](https://github.com/jslee02/awesome-robotics-libraries/blob/master/README.md)
  * [Awesome ROS 2](https://github.com/fkromer/awesome-ros2#readme)
  * [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling)
+ * [Awesome Cloud Robotics](https://github.com/Airbotics/awesome-cloud-robotics)
+ * [Awesome Robotics Projects](https://github.com/mjyc/awesome-robotics-projects)
