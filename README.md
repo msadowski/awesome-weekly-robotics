@@ -113,6 +113,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [pymanoid](https://github.com/stephane-caron/pymanoid) - Humanoid robotics controller prototyping environment based on OpenRAVE. Licence: GPL v.3.0.
  * [Flightmare](https://github.com/uzh-rpg/flightmare) - An Open Flexible Quadrotor Simulator. Licence: MIT.
  * [pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS2 enabled 2D mobile robot simulator for behavior prototyping. Licence: BSD.
+ * [mvsim](https://github.com/MRPT/mvsim) - lightweight, dnyamical simulator for 2D vehicles and robots. Licence: BSD-3 Clause.
 
 ## Middleware
  * [ROS](https://www.ros.org/) -The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project.
