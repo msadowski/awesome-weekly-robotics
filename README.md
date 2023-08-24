@@ -4,7 +4,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Open Source Robots
 ### Rovers and Cars
- * [TurtleBot](https://www.turtlebot.com/) - A popular, low-cost, personal robot kit with open-source software, created at Willow Garage 
+ * [TurtleBot](https://www.turtlebot.com/) - A popular, low-cost, personal robot kit with open-source software, created at Willow Garage. 
  * [NASA Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars. Licence: Apache 2.0.
  * [Sawppy Rover](https://github.com/Roger-random/Sawppy_Rover) - A 3D printed motorized model of Mars rovers Curiosity and Mars 2020 that can be build on $500 budget. Licence: MIT.
  * [DonkeyCar](https://github.com/autorope/donkeycar) - DIY self driving platform for small scale cars. Requires an R/C car, Raspberry Pi and is programmed in Python. Licence: MIT.
