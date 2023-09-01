@@ -4,7 +4,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Open Source Robots
 ### Rovers and Cars
- * [TurtleBot](https://www.turtlebot.com/) - A popular, low-cost, personal robot kit with open-source software, created at Willow Garage. 
+ * [TurtleBot](https://www.turtlebot.com/) - A popular, low-cost, personal robot kit with open-source software, created at Willow Garage. Licence: The preferred license for TurtleBot hardware documentation is the FreeBSD Documentation License.
  * [NASA Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars. Licence: Apache 2.0.
  * [Sawppy Rover](https://github.com/Roger-random/Sawppy_Rover) - A 3D printed motorized model of Mars rovers Curiosity and Mars 2020 that can be build on $500 budget. Licence: MIT.
  * [DonkeyCar](https://github.com/autorope/donkeycar) - DIY self driving platform for small scale cars. Requires an R/C car, Raspberry Pi and is programmed in Python. Licence: MIT.
@@ -70,9 +70,9 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 
 ## Libraries and Frameworks
- * [Rerun](rerun.io) - An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time. It lets you debug and understand the internal state and data of your systems with minimal code.
- * [GTSAM](https://gtsam.org/) - a BSD-licensed C++ library that implements sensor fusion for robotics and computer vision applications, including SLAM (Simultaneous Localization and Mapping), VO (Visual Odometry), and SFM (Structure from Motion). It uses factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices to optimize for the most probable configuration or an optimal plan.
- * [Ceres Solver](http://ceres-solver.org/) - An open source C++ library for modeling and solving large, complicated optimization problems, used by many organizations for bundle adjustment, SLAM, camera calibration and many other robotics-based applications.
+ * [Rerun](https://github.com/rerun-io/rerun) - An SDK for logging computer vision and robotics data paired with a visualizer for exploring that data over time. It lets you debug and understand the internal state and data of your systems with minimal code. Licence: Dual licence under MIT OR Apache-2.0.
+ * [GTSAM](https://github.com/borglab/gtsam) - a BSD-licensed C++ library that implements sensor fusion for robotics and computer vision applications, including SLAM (Simultaneous Localization and Mapping), VO (Visual Odometry), and SFM (Structure from Motion). It uses factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices to optimize for the most probable configuration or an optimal plan. Licence: BSD.
+ * [Ceres Solver](https://github.com/ceres-solver/ceres-solver) - An open source C++ library for modeling and solving large, complicated optimization problems, used by many organizations for bundle adjustment, SLAM, camera calibration and many other robotics-based applications. Licence: BSD-3 Clause.
  * [Visual Servoing Platform](http://visp.inria.fr/#) - This project is a cross-platform library (Linux, Windows, Mac) that allows prototyping and developing applications using visual tracking and visual servoing technics. Licence: GPLv2.
  * [Point Cloud Library](http://pointclouds.org/) - Standalone, large scale, open project for 2D/3D image and point cloud processing. Licence: BSD.
  * [OpenCV](https://opencv.org/) - Open Source computer vision library. Licence: BSD-3 Clause.
