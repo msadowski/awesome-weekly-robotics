@@ -212,3 +212,4 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Awesome Robotic Tooling](https://github.com/Ly0n/awesome-robotic-tooling)
  * [Awesome Cloud Robotics](https://github.com/Airbotics/awesome-cloud-robotics)
  * [Awesome Robotics Projects](https://github.com/mjyc/awesome-robotics-projects)
+ * [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
