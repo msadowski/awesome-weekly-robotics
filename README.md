@@ -15,6 +15,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Mars-Rover](https://github.com/jakkra/Mars-Rover) - Curiosity/Perseverance inspired Rover with open source hardware and software (C++). Licence: MIT.
  * [OpenRobot](https://github.com/intel-isl/OpenBot) - $50 robot car that interfaces with smartphone for high level control. Licence: MIT.
  * [OpenMower](https://github.com/ClemensElflein/OpenMower) - an open-source, RTK-GPS enabled mower project. Licence: CC BY-NC-SA 4.0.
+ * [race_stack](https://github.com/ForzaETH/race_stack) - full stack for F1TENTH autonomous scaled cars based on ROS 1. Licence: MIT.
 
 ### Robot Arms
  * [Dexter](https://github.com/HaddingtonDynamics/Dexter/wiki) - Open Source industrial robotics arm project. For more information please see [Haddington Dynamics webpage](http://hdrobotic.com/open-source). Licence: GPLv3.
