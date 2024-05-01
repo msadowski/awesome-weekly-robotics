@@ -16,6 +16,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [OpenRobot](https://github.com/intel-isl/OpenBot) - $50 robot car that interfaces with smartphone for high level control. Licence: MIT.
  * [OpenMower](https://github.com/ClemensElflein/OpenMower) - an open-source, RTK-GPS enabled mower project. Licence: CC BY-NC-SA 4.0.
  * [Maker's Pet](https://github.com/makerspet/makerspet_loki) - a $100 open-source ROS2 home pet robot. This 3D-printed robot runs micro-ROS on Arduino ESP32 to cut down the cost and is compatible with $15 laser distance sensors from used Xiaomi 1st-gen robot vacuum cleaners. License: Apache 2.0.
+ * [race_stack](https://github.com/ForzaETH/race_stack) - full stack for F1TENTH autonomous scaled cars based on ROS 1. Licence: MIT.
 
 ### Robot Arms
  * [Dexter](https://github.com/HaddingtonDynamics/Dexter/wiki) - Open Source industrial robotics arm project. For more information please see [Haddington Dynamics webpage](http://hdrobotic.com/open-source). Licence: GPLv3.
@@ -144,6 +145,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Robot-Runner](https://github.com/S2-group/robot-runner) - Robot Runner (RR) is a tool to automatically execute measurement-based experiments on robotics software. Licence: MIT.
  * [Allan Variance ROS](https://github.com/ori-drs/allan_variance_ros) - ROS package which loads a rosbag of IMU data and computes Allan Variance parameters. Licence: BSD 3-Clause.
  * [Voxgraph](https://github.com/ethz-asl/voxgraph) - Globally consistent volumetric mapping framework. It represents the world as a collection of Signed Distance Function submaps, which it aligns through pose graph optimization. Licence: BSD 2-Clause.
+ * [Wavemap](https://github.com/ethz-asl/wavemap) - Fast, efficient and accurate multi-resolution, multi-sensor 3D occupancy mapping. Licence: BSD 3-Clause.
  * [jupyetlab-urdf](https://github.com/ihuicatl/jupyterlab-urdf) - An extension to display URDF in JupyterLab. Licence: BSD 3-Clause.
  * [Quad-SDK](https://github.com/robomechanics/quad-sdk) - ROS-based framework for agile quadrupedal locomotion. Licence: MIT.
  * [Aerostack2](https://github.com/aerostack2/aerostack2) - framework that helps developers design and build the control architecture of aerial robotic systems. Licence: BSD 3-Clause.
