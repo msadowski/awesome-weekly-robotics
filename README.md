@@ -6,8 +6,8 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 ### Rovers and Cars
  * [TurtleBot](https://www.turtlebot.com/) - A popular, low-cost, personal robot kit with open-source software, created at Willow Garage. Licence: The preferred license for TurtleBot hardware documentation is the FreeBSD Documentation License.
  * [NASA Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars. Licence: Apache 2.0.
- * [Sawppy Rover](https://github.com/Roger-random/Sawppy_Rover) - A 3D printed motorized model of Mars rovers Curiosity and Mars 2020 that can be build on $500 budget. Licence: MIT.
- * [DonkeyCar](https://github.com/autorope/donkeycar) - DIY self driving platform for small scale cars. Requires an R/C car, Raspberry Pi and is programmed in Python. Licence: MIT.
+ * [Sawppy Rover](https://github.com/Roger-random/Sawppy_Rover) - A 3D printed motorized model of Mars rovers Curiosity and Mars 2020 that can be built on $500 budget. Licence: MIT.
+ * [DonkeyCar](https://github.com/autorope/donkeycar) - DIY self-driving platform for small scale cars. Requires an R/C car, Raspberry Pi and is programmed in Python. Licence: MIT.
  * [MORPH: Modular Open Robotics Platform for Hackers](https://github.com/roaldlemmens/morph) - An affordable modular differential drive platform for open robotics development for hackers. Licence: GPLv3.
  * [Linorobot](https://github.com/linorobot/linorobot) - ROS Compatible ground robots (2WD, 4WD, Ackermann Steering, Mecanum Drive). Licence: BSD-2 Clause.
  * [MuSHR](https://github.com/prl-mushr/mushr) - An open-source robotic hardware and software platform for learning and researching AI in a the setting of autonomous vehicles and mobile robotics. Licence: BSD 3-Clause.
@@ -193,6 +193,8 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Elements of Robotics](https://link.springer.com/book/10.1007/978-3-319-62533-1) - Open access book on robotics, directed towards beginners. The book has many algorithmic activities and exercises.
  * [Foundations of Robotics](https://foundations-of-robotics.org/) - an Open-access book on robotics, rather for beginners.
 
+## Tutorials
+ * [Flying planes with JavaScript](https://pomax.github.io/are-we-flying/) - a tutorials on integrating with Microsoft Flight Simulator 2020 API that ends with developing some autopilot-like functionality.
 
 ## Other
  * [Examples of AI Gaming the Rules](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml) - Sometimes it's convenient for the algorithm to pause the simulation to get the highest score. This spreadsheet contains lots of information of this kind.
