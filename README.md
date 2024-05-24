@@ -109,6 +109,8 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Basalt](https://gitlab.com/VladyslavUsenko/basalt) - Library for visual-inertial odometry and mapping. Licence: BSD-3 Clause.
  * [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM) - A real-time lidar-inertial odometry package with very promising results for multi-beam LiDARS. Licence: BSD-3 Clause.
 
+## Embodied AI Neural Scaling Laws
+* [Neural Scaling Laws for Embodied AI](https://arxiv.org/abs/2405.14005) - A paper studying the Scaling Laws and Emergent Capabilities for Embodied AI
 ## Simulators
  * [v-rep](http://www.coppeliarobotics.com/) - A robot simulator with integrated development environment. Based on a distributed control architecture: each object/model can be individually controlled via an embedded script, a plugin, a ROS or BlueZero node, a remote API client, or a custom solution. It comes in free educational or paid commercial versions.
  * [ARGoS](https://www.argos-sim.info/) - ARGoS is a multi-physics robot simulator. It can simulate large-scale swarms of robots of any kind efficiently. Licence: MIT.
