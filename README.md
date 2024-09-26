@@ -4,6 +4,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Open Source Robots
 ### Rovers and Cars
+ * [Duckiebot](https://duckietown.com/duckiebot) - The affordable, DIY, programmable, self-driving car flagship of the [Duckietown project](https://duckietown.com/). Kits are all-inclusive. License: Duckietown
  * [TurtleBot](https://www.turtlebot.com/) - A popular, low-cost, personal robot kit with open-source software, created at Willow Garage. Licence: The preferred license for TurtleBot hardware documentation is the FreeBSD Documentation License.
  * [NASA Open Source Rover](https://github.com/nasa-jpl/open-source-rover) - A build-it-yourself, 6-wheel rover based on the rovers on Mars. Licence: Apache 2.0.
  * [Sawppy Rover](https://github.com/Roger-random/Sawppy_Rover) - A 3D printed motorized model of Mars rovers Curiosity and Mars 2020 that can be built on $500 budget. Licence: MIT.
@@ -70,6 +71,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [ArduPilot](http://ardupilot.org/) - Open Source autopilot for multirotors, fixed wings, rovers, boats and submarines. Runs on [following autopilot hardware](http://ardupilot.org/copter/docs/common-autopilots.html). Licence: GPLv3.
  * [PX4](https://px4.io/) - PX4 is an open source flight control software for drones and other unmanned vehicles. The project provides a flexible set of tools for drone developers to share technologies to create tailored solutions for drone applications. Licence: BSD.
  * [Paparazzi](http://wiki.paparazziuav.org/wiki/Main_Page) - Open-source drone hardware and software project encompassing autopilot systems and ground station software for multicopters/multirotors, fixed-wing, helicopters and hybrid aircraft that was founded in 2003. Licence: GPLv2.
+ * [Duckiedrone](https://duckietown.com/duckiedrone): an affordable, DIY, autonomous, Raspberry Pi-powered quadcopter part of the Duckietown project. License: Duckietown.
 
 
 ## Libraries and Frameworks
@@ -121,6 +123,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Flightmare](https://github.com/uzh-rpg/flightmare) - An Open Flexible Quadrotor Simulator. Licence: MIT.
  * [pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS2 enabled 2D mobile robot simulator for behavior prototyping. Licence: BSD.
  * [mvsim](https://github.com/MRPT/mvsim) - lightweight, dnyamical simulator for 2D vehicles and robots. Licence: BSD-3 Clause.
+ * [Gym-Duckietown](https://github.com/duckietown/gym-duckietown) - Gym-Duckietown is a lightweight, open, customizable simulator for the Duckietown Universe, written in pure Python/OpenGL (Pyglet). Designed to train ML agents that can then be easily deployed on Duckiebots. License: Duckietown.
 
 ## Middleware
  * [ROS](https://www.ros.org/) -The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project.
@@ -192,6 +195,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Calibration Desk Reference](https://www.tangramvision.com/resources/calibration-desk-reference) - an 80 page long document on sensor calibration from Tangram Vision with a direct download link on the website.
  * [Elements of Robotics](https://link.springer.com/book/10.1007/978-3-319-62533-1) - Open access book on robotics, directed towards beginners. The book has many algorithmic activities and exercises.
  * [Foundations of Robotics](https://foundations-of-robotics.org/) - an Open-access book on robotics, rather for beginners.
+ * [Self-Driving Cars with Duckietown](https://duckietown.com/mooc/) - free world's first massive open online course in robot autonomy with hardware. Hosted on edX, made by ETHZ, University of Montreal, Toyota Technological Institute at Chicago, and Duckietown.
 
 ## Tutorials
  * [Flying planes with JavaScript](https://pomax.github.io/are-we-flying/) - a tutorials on integrating with Microsoft Flight Simulator 2020 API that ends with developing some autopilot-like functionality.
