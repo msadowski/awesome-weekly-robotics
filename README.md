@@ -206,6 +206,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [AI Incident Database](https://incidentdatabase.ai/summaries/incidents) - a well documented database of AI incidents.
  * [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies) - a list of companies using ROS 1 or ROS 2.
  * [Control Challenges](http://janismac.github.io/ControlChallenges/) - a set of control challanges that you can solve in the browser using Javascript.
+ * [Robotics Conferences and School List](https://torydebra.github.io/AwesomeRoboticsConferencesAndSchoolsList/) - lists of robotics-related conferences and summer/winter schools.
 
 ## Documentaries
  * [Pulling Power from the Sky: The Story of Makani](https://youtu.be/qd_hEja6bzE) - A documentary on Makani, a company that was producing energy from wind using kites.
