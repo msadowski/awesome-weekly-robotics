@@ -23,6 +23,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Dexter](https://github.com/HaddingtonDynamics/Dexter/wiki) - Open Source industrial robotics arm project. For more information please see [Haddington Dynamics webpage](http://hdrobotic.com/open-source). Licence: GPLv3.
  * [Reachy the Bio-Inspired Robotic Arm](https://github.com/pollen-robotics/reachy) - A 7-DOF prosthesis robotic arm developed by Pollen Robotics. The software is licenced under LGPL licence while [hardware](https://cad.onshape.com/documents/66388ae9c63cef53d76acd77/w/68c2411483d5bc65c7f54234/e/581d46ba9b8ee98de9d636ee) is licenced under CC BY-SA.
  * [Faze4](https://github.com/PCrnjak/Faze4-Robotic-arm) - Faze4 is small fully 3d printable Open source 6 axis robotic arm. It is functionally and esthetically similar to robotic arms in industry but is aimed for research, education and anyone interested in making his own robot arm. Licence: MIT.
+ * [LeRobot](https://github.com/huggingface/lerobot) - Open Source 3D printable low-cost robot arm for accessible end-to-end learning.
 
 ### Quadrupeds
  * [OpenDog](http://www.xrobots.co.uk/open-dog-the-open-source-robot/) - Open Source quadruped robot designed by [James Bruton](https://www.youtube.com/playlist?list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf). Licence: GPLv3.
