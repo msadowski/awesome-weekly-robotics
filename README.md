@@ -123,13 +123,14 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Flightmare](https://github.com/uzh-rpg/flightmare) - An Open Flexible Quadrotor Simulator. Licence: MIT.
  * [pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS2 enabled 2D mobile robot simulator for behavior prototyping. Licence: BSD.
  * [mvsim](https://github.com/MRPT/mvsim) - lightweight, dnyamical simulator for 2D vehicles and robots. Licence: BSD-3 Clause.
-
+ * [Isaac Sim](https://developer.nvidia.com/isaac/sim) - Proprietary simulator from NVIDIA with advanced physics, AI-based features, and GPU-accelerated capabilities.
+   
 ## Middleware
  * [ROS](https://www.ros.org/) -The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project.
  * [MOOS-IvP](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage) - MOOS-IvP is a set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
  * [YARP](https://github.com/robotology/yarp) - Yet Another Robot Platform middleware for robotics.
  * [Viam](https://www.viam.com/) - Viam is an open source software platform that's modular, pluggable, and designed to work with any hardware with sensing, compute, and actuation.
- * [Isaac Sim](https://developer.nvidia.com/isaac/sim) - Proprietary simulator from NVIDIA with advanced physics, AI-based features, and GPU-accelerated capabilities.
+
 
 ## ROS
 
