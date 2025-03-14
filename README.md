@@ -23,6 +23,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Dexter](https://github.com/HaddingtonDynamics/Dexter/wiki) - Open Source industrial robotics arm project. For more information please see [Haddington Dynamics webpage](http://hdrobotic.com/open-source). Licence: GPLv3.
  * [Reachy the Bio-Inspired Robotic Arm](https://github.com/pollen-robotics/reachy) - A 7-DOF prosthesis robotic arm developed by Pollen Robotics. The software is licenced under LGPL licence while [hardware](https://cad.onshape.com/documents/66388ae9c63cef53d76acd77/w/68c2411483d5bc65c7f54234/e/581d46ba9b8ee98de9d636ee) is licenced under CC BY-SA.
  * [Faze4](https://github.com/PCrnjak/Faze4-Robotic-arm) - Faze4 is small fully 3d printable Open source 6 axis robotic arm. It is functionally and esthetically similar to robotic arms in industry but is aimed for research, education and anyone interested in making his own robot arm. Licence: MIT.
+ * [LeRobot](https://github.com/huggingface/lerobot) - Open Source 3D printable low-cost robot arm for accessible end-to-end learning.
 
 ### Quadrupeds
  * [OpenDog](http://www.xrobots.co.uk/open-dog-the-open-source-robot/) - Open Source quadruped robot designed by [James Bruton](https://www.youtube.com/playlist?list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf). Licence: GPLv3.
@@ -63,6 +64,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [UrbanLoco](https://advdataset2019.wixsite.com/advlocalization) - Another robotic car dataset providing sensor information as a ROS bag. Licence: CC BY-NC-SA 4.0.
  * [LIBRE-dataset](https://sites.google.com/g.sp.m.is.nagoya-u.ac.jp/libre-dataset/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0) - LiDAR Benchmark Reference dataset comparing 12 LiDAR models across various scenarios and conditions for self-driving cars.
  * [USTC FLICAR Dataset](https://ustc-flicar.github.io/) - a heavy-duty VTOL dataset captured by a robotic bucket truck.
+ * [Open X-Embodiment Dataset](https://robotics-transformer-x.github.io/) - A large open-source real robot dataset. It contains 1M+ real robot trajectories spanning 22 robot embodiments, from single robot arms to bi-manual robots and quadrupeds. 
 
 ## Drones
 
@@ -121,12 +123,14 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Flightmare](https://github.com/uzh-rpg/flightmare) - An Open Flexible Quadrotor Simulator. Licence: MIT.
  * [pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS2 enabled 2D mobile robot simulator for behavior prototyping. Licence: BSD.
  * [mvsim](https://github.com/MRPT/mvsim) - lightweight, dnyamical simulator for 2D vehicles and robots. Licence: BSD-3 Clause.
-
+ * [Isaac Sim](https://developer.nvidia.com/isaac/sim) - Proprietary simulator from NVIDIA with advanced physics, AI-based features, and GPU-accelerated capabilities.
+   
 ## Middleware
  * [ROS](https://www.ros.org/) -The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project.
  * [MOOS-IvP](https://oceanai.mit.edu/moos-ivp/pmwiki/pmwiki.php?n=Main.HomePage) - MOOS-IvP is a set of open source C++ modules for providing autonomy on robotic platforms, in particular autonomous marine vehicles.
  * [YARP](https://github.com/robotology/yarp) - Yet Another Robot Platform middleware for robotics.
  * [Viam](https://www.viam.com/) - Viam is an open source software platform that's modular, pluggable, and designed to work with any hardware with sensing, compute, and actuation.
+
 
 ## ROS
 
