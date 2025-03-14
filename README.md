@@ -64,6 +64,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [UrbanLoco](https://advdataset2019.wixsite.com/advlocalization) - Another robotic car dataset providing sensor information as a ROS bag. Licence: CC BY-NC-SA 4.0.
  * [LIBRE-dataset](https://sites.google.com/g.sp.m.is.nagoya-u.ac.jp/libre-dataset/%E3%83%9B%E3%83%BC%E3%83%A0?authuser=0) - LiDAR Benchmark Reference dataset comparing 12 LiDAR models across various scenarios and conditions for self-driving cars.
  * [USTC FLICAR Dataset](https://ustc-flicar.github.io/) - a heavy-duty VTOL dataset captured by a robotic bucket truck.
+ * [Open X-Embodiment Dataset](https://robotics-transformer-x.github.io/) - A large open-source real robot dataset. It contains 1M+ real robot trajectories spanning 22 robot embodiments, from single robot arms to bi-manual robots and quadrupeds. 
 
 ## Drones
 
