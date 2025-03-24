@@ -23,6 +23,8 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Reachy 2019](https://github.com/pollen-robotics/reachy) - A 7-DOF prosthesis robotic arm developed by Pollen Robotics. The software is licenced under LGPL licence while [hardware](https://cad.onshape.com/documents/66388ae9c63cef53d76acd77/w/68c2411483d5bc65c7f54234/e/581d46ba9b8ee98de9d636ee) is licenced under CC BY-SA.
  * [Faze4](https://github.com/PCrnjak/Faze4-Robotic-arm) - Faze4 is small fully 3d printable Open source 6 axis robotic arm. It is functionally and esthetically similar to robotic arms in industry but is aimed for research, education and anyone interested in making his own robot arm. Licence: MIT.
  * [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Open Source 3D printable low-cost robot arm for accessible end-to-end learning. Licence: Apache 2.0.
+ * [Pedro](https://github.com/almtzr/Pedro) - A small, 3D-printed robotic manupulator with 3 Degress of Freedom. Licence: Apache 2.0.
+
 
 ### Quadrupeds
  * [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is a highly agile robot designed to provide an accessible platform for legged robot research. Licence: MIT.
@@ -32,6 +34,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ### Bipedals
  * [Open Duck Mini v2](https://github.com/apirrone/Open_Duck_Mini) - A miniaturized version of Disney's BDX droid. Licence: Apache 2.0.
+ * [Poppy Humanoid](https://github.com/poppy-project/poppy-humanoid) -
 
 ## Open Source Sensors
  * [OpenMV](https://openmv.io/) - The OpenMV project is about creating low-cost, extensible, Python powered, machine vision modules and aims at becoming the “Arduino of Machine Vision“. Hardware Licence: CC BY-SA 3.0, Software Licence: MIT.
