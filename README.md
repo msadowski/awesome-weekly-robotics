@@ -34,7 +34,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ### Bipedals
  * [Open Duck Mini v2](https://github.com/apirrone/Open_Duck_Mini) - A miniaturized version of Disney's BDX droid. Licence: Apache 2.0.
- * [Poppy Humanoid](https://github.com/poppy-project/poppy-humanoid) -
+ * [Poppy Humanoid](https://github.com/poppy-project/poppy-humanoid) - An open-source and 3D printed humanoid robot. Licence: Hardware CC BY-SA, Software: GPL v3.
 
 ## Open Source Sensors
  * [OpenMV](https://openmv.io/) - The OpenMV project is about creating low-cost, extensible, Python powered, machine vision modules and aims at becoming the “Arduino of Machine Vision“. Hardware Licence: CC BY-SA 3.0, Software Licence: MIT.
