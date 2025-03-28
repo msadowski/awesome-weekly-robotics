@@ -134,6 +134,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [YARP](https://github.com/robotology/yarp) - Yet Another Robot Platform middleware for robotics.
  * [Viam](https://www.viam.com/) - Viam is an open source software platform that's modular, pluggable, and designed to work with any hardware with sensing, compute, and actuation.
  * [DORA](https://github.com/dora-rs/dora) - middleware designed to streamline and simplify the creation of AI-based robotic applications. Licence: Apache 2.0.
+ * [Copper](https://github.com/copper-project/copper-rs) - Copper is a user-friendly runtime engine for creating fast and reliable robots. Copper is to robots what a game engine is to games. Licence: Apache 2.0.
 
 ## ROS
 
