@@ -163,6 +163,8 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [roslibjs](https://github.com/RobotWebTools/roslibjs) - A standard ROS JavaScript library. Licence: BSD.
  * [web_video_server](https://github.com/RobotWebTools/web_video_server) - HTTP Streaming of ROS Image Topics in Multiple Formats. Licence: BSD.
  * [Webviz](https://github.com/cruise-automation/webviz) - A web based application for playback and visualization of ROS bag files made by Cruise Automation. Licence: Apache 2.0.
+ * [Transitive](https://github.com/transitiverobotics/transitive) - A full-stack framework for robotic capabilities that connect robot, cloud, and web. License: Apache-2.0.
+ * [transAct](https://github.com/transitiverobotics/transact) - An open-source robot fleet management dashboard. License: Apache-2.0.
 
 ### Interest groups
  * [Autoware](https://www.autoware.org/) - The Autoware Foundation is a non-profit organization supporting open-source projects enabling self-driving mobility.
