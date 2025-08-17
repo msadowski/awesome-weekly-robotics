@@ -25,7 +25,6 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Open Source 3D printable low-cost robot arm for accessible end-to-end learning. Licence: Apache 2.0.
  * [Pedro](https://github.com/almtzr/Pedro) - A small, 3D-printed robotic manupulator with 3 Degress of Freedom. Licence: Apache 2.0.
 
-
 ### Quadrupeds
  * [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is a highly agile robot designed to provide an accessible platform for legged robot research. Licence: MIT.
  * [mjbots quad A0](https://github.com/mjbots/moteus) - The mjbots quad A0 is a small dynamic quadruped, like the MIT mini-Cheetah, but fully open source. Licence: Apache 2.0.
@@ -35,6 +34,9 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 ### Bipedals
  * [Open Duck Mini v2](https://github.com/apirrone/Open_Duck_Mini) - A miniaturized version of Disney's BDX droid. Licence: Apache 2.0.
  * [Poppy Humanoid](https://github.com/poppy-project/poppy-humanoid) - An open-source and 3D printed humanoid robot. Licence: Hardware CC BY-SA, Software: GPL v3.
+
+## Actuators
+ * [bam](https://github.com/Rhoban/bam) - A handy tool for characterizing actuator friction for better modeling for simulations. Licence: MIT.
 
 ## Open Source Sensors
  * [OpenMV](https://openmv.io/) - The OpenMV project is about creating low-cost, extensible, Python powered, machine vision modules and aims at becoming the “Arduino of Machine Vision“. Hardware Licence: CC BY-SA 3.0, Software Licence: MIT.
@@ -204,6 +206,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies) - a list of companies using ROS 1 or ROS 2.
  * [Control Challenges](http://janismac.github.io/ControlChallenges/) - a set of control challanges that you can solve in the browser using Javascript.
  * [Robotics Conferences and School List](https://torydebra.github.io/AwesomeRoboticsConferencesAndSchoolsList/) - lists of robotics-related conferences and summer/winter schools.
+ * [Arduino Library](https://thearduinolibrary.com/) - A library of thousands of Arduino libraries that contains a powerful search capabilities.
 
 ## Documentaries
  * [Pulling Power from the Sky: The Story of Makani](https://youtu.be/qd_hEja6bzE) - A documentary on Makani, a company that was producing energy from wind using kites.
