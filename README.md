@@ -24,6 +24,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Faze4](https://github.com/PCrnjak/Faze4-Robotic-arm) - Faze4 is small fully 3d printable Open source 6 axis robotic arm. It is functionally and esthetically similar to robotic arms in industry but is aimed for research, education and anyone interested in making his own robot arm. Licence: MIT.
  * [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Open Source 3D printable low-cost robot arm for accessible end-to-end learning. Licence: Apache 2.0.
  * [Pedro](https://github.com/almtzr/Pedro) - A small, 3D-printed robotic manupulator with 3 Degress of Freedom. Licence: Apache 2.0.
+ * [OpenArm](https://openarm.dev/) - A bimanual manipulator setup with a BOM cost of around $6,500 and 7 DoF and 6kg payload per arm. Licence: Apache 2.0.
 
 ### Quadrupeds
  * [Stanford Doggo](https://github.com/Nate711/StanfordDoggoProject) - Stanford Doggo is a highly agile robot designed to provide an accessible platform for legged robot research. Licence: MIT.
