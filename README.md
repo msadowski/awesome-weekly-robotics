@@ -31,6 +31,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [mjbots quad A0](https://github.com/mjbots/moteus) - The mjbots quad A0 is a small dynamic quadruped, like the MIT mini-Cheetah, but fully open source. Licence: Apache 2.0.
  * [Stanford Quadruped (Pupper)](https://github.com/stanfordroboticsclub/StanfordQuadruped) - A low cost quadruped robot with the BoM coming to around $600-900 depending on what components you already have. Licence: MIT.
  * [Open Dynamic Robot Initiative](https://open-dynamic-robot-initiative.github.io/) - An Open Torque-Controlled Modular Robot Architecture for Legged Locomotion Research. Licence: BSD-3.
+ * [Sesame Robot](https://github.com/dorianborian/sesame-robot/) - ESP32-based low-cost quadruped robot. Locence: Apache 2.0.
 
 ### Bipedals
  * [Open Duck Mini v2](https://github.com/apirrone/Open_Duck_Mini) - A miniaturized version of Disney's BDX droid. Licence: Apache 2.0.
@@ -157,6 +158,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Quad-SDK](https://github.com/robomechanics/quad-sdk) - ROS-based framework for agile quadrupedal locomotion. Licence: MIT.
  * [Aerostack2](https://github.com/aerostack2/aerostack2) - framework that helps developers design and build the control architecture of aerial robotic systems. Licence: BSD 3-Clause.
  * [race_stack](https://github.com/ForzaETH/race_stack) - full stack for F1TENTH autonomous scaled cars based on ROS 1. Licence: MIT.
+ * [ROS 2 Benchmark Container](https://github.com/irobot-ros/ros2-benchmark-container) - A Dockerized performance benchmarking suite for ROS 2 that automates testing, comparative analysis, and report generation across multiple RMW implementations and system topologies. Licence: BSD 3-Clause.
 
 ### Drones
  * [ROSflight](http://rosflight.org/) - ROSflight is an autopilot system designed from the ground up with researchers in mind, and for easy integration with ROS. Licence: BSD 3-Clause.
