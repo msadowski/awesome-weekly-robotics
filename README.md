@@ -105,6 +105,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) - A modular and extensible Coverage Path Planning library. Licence: BSD-3-Clause.
  * [Segment Anything](https://github.com/facebookresearch/segment-anything) - The Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. Licence: Apache 2.0.
  * [LeRobot](https://github.com/huggingface/lerobot) - Developped by Hugging Face, LeRobot provides models, datasets and tools for real-world robotics in PyTorch. Licence: Apache 2.0.
+ * [RTP — Robot Task Protocol](https://github.com/plagtech/rtp-spec) - An open standard and TypeScript SDK for AI agents to discover, commission, and pay robots for physical tasks via HTTP micropayments (x402). Supports ROS robots, drones, Raspberry Pi, industrial arms, and IoT devices. Licence: MIT.
 
 ### SLAM
  * [Cartographer](https://github.com/googlecartographer/cartographer) - 2D and 3D SLAM library, supports multiple platforms and sensor configurations. Licence: Apache 2.0.
