@@ -160,6 +160,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [race_stack](https://github.com/ForzaETH/race_stack) - full stack for F1TENTH autonomous scaled cars based on ROS 1. Licence: MIT.
  * [ROS 2 Benchmark Container](https://github.com/irobot-ros/ros2-benchmark-container) - A Dockerized performance benchmarking suite for ROS 2 that automates testing, comparative analysis, and report generation across multiple RMW implementations and system topologies. Licence: BSD 3-Clause.
  * [ros2_medkit](https://github.com/selfpatch/ros2_medkit) - Structured fault management for ROS 2 — persistent fault lifecycle, REST/SSE API, root cause correlation, and automatic rosbag capture on fault. Inspired by SOVD (Service-Oriented Vehicle Diagnostics), the ASAM standard that brings HTTP/REST diagnostics to automotive and robotics. Licence: Apache 2.0.
+ * [FusionCore](https://github.com/manankharwar/fusioncore) - ROS 2 UKF sensor fusion for IMU, wheel encoders and GPS. 22-state filter with ECEF-native GPS handling, automatic IMU bias estimation, adaptive noise covariance and chi-squared outlier rejection on every sensor. Benchmarked against robot_localization EKF on 6 NCLT public dataset sequences. Licence: Apache 2.0.
 
 ### Drones
  * [ROSflight](http://rosflight.org/) - ROSflight is an autopilot system designed from the ground up with researchers in mind, and for easy integration with ROS. Licence: BSD 3-Clause.
