@@ -105,6 +105,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) - A modular and extensible Coverage Path Planning library. Licence: BSD-3-Clause.
  * [Segment Anything](https://github.com/facebookresearch/segment-anything) - The Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image. Licence: Apache 2.0.
  * [LeRobot](https://github.com/huggingface/lerobot) - Developped by Hugging Face, LeRobot provides models, datasets and tools for real-world robotics in PyTorch. Licence: Apache 2.0.
+ * [LiveKit](https://github.com/livekit/livekit) - LiveKit is an open-source WebRTC SFU & SDKs to enable low-latency realtime streaming of video, audio, & data.  SDKs available in [Rust](https://github.com/livekit/rust-sdks), [Python](https://github.com/livekit/python-sdks), [C++](https://github.com/livekit/client-sdk-cpp), [Javascript](https://github.com/livekit/client-sdk-js), [Swift](https://github.com/livekit/client-sdk-swift), [Kotlin](https://github.com/livekit/client-sdk-android), [Unity](https://github.com/livekit/client-sdk-unity), [Flutter](https://github.com/livekit/client-sdk-flutter), [ESP32](https://github.com/livekit/client-sdk-esp32).  License: Apache 2.0.
 
 ### SLAM
  * [Cartographer](https://github.com/googlecartographer/cartographer) - 2D and 3D SLAM library, supports multiple platforms and sensor configurations. Licence: Apache 2.0.
