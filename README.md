@@ -198,6 +198,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
 
 ## Tutorials
  * [Flying planes with JavaScript](https://pomax.github.io/are-we-flying/) - a tutorials on integrating with Microsoft Flight Simulator 2020 API that ends with developing some autopilot-like functionality.
+ * [Interactive PCL Tutorial](https://limhyungtae.github.io/pcl_tutorial) - Interactive tutorials for the Point Cloud Library covering filters, normal estimation, segmentation, clustering, ICP, and more.
 
 ## Other
  * [Examples of AI Gaming the Rules](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRPiprOaC3HsCf5Tuum8bRfzYUiKLRqJmbOoC-32JorNdfyTiRRsR7Ea5eWtvsWzuxo8bjOxCG84dAg/pubhtml) - Sometimes it's convenient for the algorithm to pause the simulation to get the highest score. This spreadsheet contains lots of information of this kind.
