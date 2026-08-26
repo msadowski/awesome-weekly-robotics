@@ -132,6 +132,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS2 enabled 2D mobile robot simulator for behavior prototyping. Licence: BSD.
  * [mvsim](https://github.com/MRPT/mvsim) - lightweight, dnyamical simulator for 2D vehicles and robots. Licence: BSD-3 Clause.
  * [Isaac Sim](https://developer.nvidia.com/isaac/sim) - Proprietary simulator from NVIDIA with advanced physics, AI-based features, and GPU-accelerated capabilities.
+ * [OmniSim](https://github.com/omnilink-tech/omnisim) - An agent-operable robotics simulator with HTTP/JSON and MCP control, Newton/MuJoCo physics, URDF/STEP import, ROS 2 base topics, synthetic-data generation, and executed benchmark suites. Licence: Apache 2.0.
 
 ## Middleware
  * [ROS](https://www.ros.org/) -The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project.
