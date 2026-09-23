@@ -210,6 +210,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [A fast introduction to Robotics (v 2.0)](https://medium.com/@harshmaithani09/a-fast-introduction-to-robotics-v-2-0-6d07516e053f) - A hand-picked selection of Robotics resources covering robotics from various angles.
  * [ContinuumRobotExamples](https://github.com/JohnDTill/ContinuumRobotExamples) - Continuum robots have elastic links which are capable of large-scale continuous deformations. This repo has example scripts to simulate continuum robots of various design paradigms. Each example is accompanied by a short write-up in PDF format. Licence: MIT.
  * [AI Incident Database](https://incidentdatabase.ai/summaries/incidents) - a well documented database of AI incidents.
+ * [humanoidrecord.com](https://humanoidrecord.com) - a sourced record of humanoid robots: per robot whether it is claimed, independently demonstrated, or shipped to a named customer, every value with source and date. Licence: CC BY 4.0.
  * [ROS Robotics Companies](https://github.com/vmayoral/ros-robotics-companies) - a list of companies using ROS 1 or ROS 2.
  * [Control Challenges](http://janismac.github.io/ControlChallenges/) - a set of control challanges that you can solve in the browser using Javascript.
  * [Robotics Conferences and School List](https://torydebra.github.io/AwesomeRoboticsConferencesAndSchoolsList/) - lists of robotics-related conferences and summer/winter schools.
