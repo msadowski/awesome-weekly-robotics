@@ -214,6 +214,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Control Challenges](http://janismac.github.io/ControlChallenges/) - a set of control challanges that you can solve in the browser using Javascript.
  * [Robotics Conferences and School List](https://torydebra.github.io/AwesomeRoboticsConferencesAndSchoolsList/) - lists of robotics-related conferences and summer/winter schools.
  * [Arduino Library](https://thearduinolibrary.com/) - A library of thousands of Arduino libraries that contains a powerful search capabilities.
+ * [Botstest](https://botstest.com/) - Searchable directory of embodied AI and robotics resources, including hardware, software, models, datasets, and benchmarks.
 
 ## Documentaries
  * [Pulling Power from the Sky: The Story of Makani](https://youtu.be/qd_hEja6bzE) - A documentary on Makani, a company that was producing energy from wind using kites.
