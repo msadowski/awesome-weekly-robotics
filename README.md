@@ -140,6 +140,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [Viam](https://www.viam.com/) - Viam is an open source software platform that's modular, pluggable, and designed to work with any hardware with sensing, compute, and actuation.
  * [DORA](https://github.com/dora-rs/dora) - middleware designed to streamline and simplify the creation of AI-based robotic applications. Licence: Apache 2.0.
  * [Copper](https://github.com/copper-project/copper-rs) - Copper is a user-friendly runtime engine for creating fast and reliable robots. Copper is to robots what a game engine is to games. Licence: Apache 2.0.
+ * [Cerulion](https://github.com/cerulion-inc/cerulion) - Rust robot runtime with zero-copy shared memory, a graph-aware scheduler and ROS 2 Jazzy support through rmw_cerulion. A 1 MiB round trip takes 4.08 µs for native nodes and 11.12 µs for ROS 2 Jazzy over rmw_cerulion, against 10,952 µs for stock ROS 2 Jazzy (medians, one Linux x86-64 desktop, 100 Hz, Sep 2026). Licence: AGPL-3.0.
 
 ## ROS
 
