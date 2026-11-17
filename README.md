@@ -72,6 +72,7 @@ A collection of useful links discovered through the work on [Weekly Robotics](ht
  * [USTC FLICAR Dataset](https://ustc-flicar.github.io/) - a heavy-duty VTOL dataset captured by a robotic bucket truck.
  * [Open X-Embodiment Dataset](https://robotics-transformer-x.github.io/) - A large open-source real robot dataset. It contains 1M+ real robot trajectories spanning 22 robot embodiments, from single robot arms to bi-manual robots and quadrupeds.
  * [L2D Dataset](https://huggingface.co/datasets/yaak-ai/L2D) - A huge dataset captured by driving schools in Germany. Article desribing this work in more detail can be found [here](https://huggingface.co/blog/lerobot-goes-to-driving-school).
+ * [Trails, Rivers and Coasts 360° Panoramas](https://huggingface.co/datasets/terrain360/trails-rivers-coasts-360-panoramas) - About 900,000 geotagged ground-level 360° locations of trails, rivers and coasts, six images and a 77-field record at each; 39 US states, DC and France, 2012 to 2026. Licence: commercial, free evaluation sample on request.
 
 ## Drones
 
